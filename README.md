@@ -6,8 +6,11 @@ I'm a Backend Software Engineer at Nutanix in San Jose, California.
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [A trip to the Library can help reduce recurring bills.](https://medium.com/swlh/a-trip-to-the-library-can-help-reduce-recurring-bills-23bca495cdf5?source=rss-d24dda280d5f------2)
-- [The Magic Behind One-Line Expressions in Python](https://medium.com/swlh/the-magic-behind-one-line-expressions-in-python-816c10180c5c?source=rss-d24dda280d5f------2)
+- [How participants in the Alexa Prize Grand Challenge 3 approached the competition](https://www.amazon.science/latest-news/alexa-prize-interviews)
+- [Emory University team wins Alexa Prize Grand Challenge 3](https://www.amazon.science/latest-news/amazon-announces-2020-alexa-prize-winner-emory-university)
+- [Automated reasoning lightning talks](https://www.amazon.science/videos-webinars/automated-reasoning-lightning-talks)
+- [How to teach Transformers to care about word order](https://www.amazon.science/blog/how-to-teach-transformers-to-care-about-word-order)
+- [EC'20: Calibrated forecasts, regret matching, dynamics and equilibria](https://www.amazon.science/videos-webinars/ec20-calibrated-forecasts-regret-matching-dynamics-and-equilibria)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📕 Amazon Blogs
