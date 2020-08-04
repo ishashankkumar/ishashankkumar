@@ -10,4 +10,10 @@ I'm a Backend Software Engineer at Nutanix in San Jose, California.
 - [The Magic Behind One-Line Expressions in Python](https://medium.com/swlh/the-magic-behind-one-line-expressions-in-python-816c10180c5c?source=rss-d24dda280d5f------2)
 <!-- BLOG-POST-LIST:END -->
 
+### 📕 Amazon Blogs
+<!-- AMAZON-BLOG-POST-LIST:START -->
+<!-- AMAZON-BLOG-POST-LIST:END -->
+
+
+
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ishashankkumar&show_icons=true&hide_border=true" />
