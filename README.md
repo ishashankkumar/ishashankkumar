@@ -6,9 +6,6 @@ I'm a Backend Software Engineer at Nutanix in San Jose, California.
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
-- [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl)
+- [A trip to the Library can help reduce recurring bills.](https://medium.com/swlh/a-trip-to-the-library-can-help-reduce-recurring-bills-23bca495cdf5?source=rss-d24dda280d5f------2)
+- [The Magic Behind One-Line Expressions in Python](https://medium.com/swlh/the-magic-behind-one-line-expressions-in-python-816c10180c5c?source=rss-d24dda280d5f------2)
 <!-- BLOG-POST-LIST:END -->
