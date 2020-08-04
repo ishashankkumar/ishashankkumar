@@ -14,4 +14,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: AMAZON-BLOG-POST-LIST
-          feed_list: "https://www.amazon.science/publications?f0=0000016e-2fef-da81-a5ef-3fff30de0000&s=0"
+          feed_list: "https://www.amazon.science/index.rss"
