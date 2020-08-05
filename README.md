@@ -2,7 +2,7 @@
 
 Hey y'all, I'm Shashank Kumar! 
 
-I'm a Backend Software Engineer at Nutanix in San Jose, California. 
+I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud World.
 
 ### 📕 My Latest Blogs
 <!-- BLOG-POST-LIST:START -->
@@ -21,4 +21,4 @@ I'm a Backend Software Engineer at Nutanix in San Jose, California.
 
 
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ishashankkumar&show_icons=true&hide_border=true" />
+<img align="center" alt="iShashankKumar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ishashankkumar&show_icons=true&hide_border=true" />
