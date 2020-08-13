@@ -14,11 +14,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [Building product graphs automatically](https://www.amazon.science/blog/building-product-graphs-automatically)
 - [Amazon's Machine Learning University is making its online courses available to the public](https://www.amazon.science/latest-news/machine-learning-course-free-online-from-amazon-machine-learning-university)
 - [How Marinus Analytics uses knowledge graphs powered by Amazon Neptune to combat human trafficking](https://www.amazon.science/latest-news/how-marinus-analytics-uses-knowledge-graphs-powered-by-aws-neptune-to-combat-human-trafficking)
 - [Teaching computers to recognize humor](https://www.amazon.science/blog/teaching-computers-to-recognize-humor)
 - [Amazon’s open-source tools make embedding knowledge graphs much more efficient](https://www.amazon.science/blog/amazons-open-source-tools-make-embedding-knowledge-graphs-much-more-efficient)
-- ["This technology will be transformative in ways we can barely comprehend"](https://www.amazon.science/latest-news/alexa-prize-interviews)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
