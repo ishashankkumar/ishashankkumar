@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [Alexa & Friends features Daniel Marcu](https://www.amazon.science/videos-webinars/alexa-friends-features-daniel-marcu)
 - [Amazon team takes first place in Interspeech 2020 Deep Noise Suppression Challenge](https://www.amazon.science/blog/amazon-team-takes-first-place-in-interspeech-2020-deep-noise-suppression-challenge)
 - [SIGCOMM lightning talks: networking updates and challenges](https://www.amazon.science/videos-webinars/sigcomm-lightning-talks-networking-updates-and-challenges)
 - [KDD: Where linear methods still have their place](https://www.amazon.science/blog/kdd-where-linear-methods-still-have-their-place)
 - [Taming Transformers for text classification with millions of classes](https://www.amazon.science/blog/natural-language-processing-techniques-text-classification-with-Transformers-at-scale)
-- [Building product graphs automatically](https://www.amazon.science/blog/building-product-graphs-automatically)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
