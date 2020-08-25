@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [Rewriting the past: Assessing the field through the lens of language generation](https://www.amazon.science/videos-webinars/rewriting-the-past-assessing-the-field-through-the-lens-of-language-generation)
 - [Matthias Bethge: Amazon Scholar and self-proclaimed protopian](https://www.amazon.science/working-at-amazon/matthias-bethge-amazon-scholar-and-self-proclaimed-protopian)
 - [Alexa & Friends features Daniel Marcu](https://www.amazon.science/videos-webinars/alexa-friends-features-daniel-marcu)
 - [Amazon team takes first place in Interspeech 2020 Deep Noise Suppression Challenge](https://www.amazon.science/blog/amazon-team-takes-first-place-in-interspeech-2020-deep-noise-suppression-challenge)
 - [SIGCOMM lightning talks: networking updates and challenges](https://www.amazon.science/videos-webinars/sigcomm-lightning-talks-networking-updates-and-challenges)
-- [KDD: Where linear methods still have their place](https://www.amazon.science/blog/kdd-where-linear-methods-still-have-their-place)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
