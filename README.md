@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [Learning to segment images without manually segmented training data](https://www.amazon.science/blog/learning-to-segment-images-without-manually-segmented-training-data)
 - [How one Amazon scientist views the challenges facing women in computer vision](https://www.amazon.science/amazon-scientist-amaia-salvador-on-challenges-for-women-in-computer-vision-stem)
 - [Amazon Scholar wins “highest honor” in knowledge discovery and data mining](https://www.amazon.science/blog/thorsten-joachims-amazon-scholar-knowledge-discovery-and-data-mining-conference-honor)
 - [Amazon researchers win best-paper award at KDD](https://www.amazon.science/blog/amazon-researchers-win-best-paper-award-at-kdd)
 - [Why AI may be healthcare's prescription for transformation](https://www.amazon.science/videos-webinars/benefits-of-cloud-computing-for-healthcare-kdd-2020)
-- [ECCV: Where does computer vision go from here?](https://www.amazon.science/european-conference-on-computer-vision-2020-amazon-scholar-thomas-brox)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
