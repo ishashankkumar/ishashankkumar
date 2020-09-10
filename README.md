@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [Amazon Scholar John Preskill on the AWS quantum computing effort](https://www.amazon.science/blog/amazon-scholar-john-preskill-on-the-aws-quantum-computing-effort)
 - [Machine learning tools increase power of hypothesis testing](https://www.amazon.science/blog/machine-learning-tools-increase-power-of-hypothesis-testing)
 - [Amazon team adds key programming frameworks to Dive into Deep Learning book](https://www.amazon.science/deep-learning-book-adds-pytorch-tensorflow)
 - [Amazon helps fund NSF high-priority AI research initiative](https://www.amazon.science/blog/amazon-supports-nsf-research-in-human-ai-interaction-collaboration)
 - [Learning to segment images without manually segmented training data](https://www.amazon.science/blog/learning-to-segment-images-without-manually-segmented-training-data)
-- [How one Amazon scientist views the challenges facing women in computer vision](https://www.amazon.science/amazon-scientist-amaia-salvador-on-challenges-for-women-in-computer-vision-stem)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
