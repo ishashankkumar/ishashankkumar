@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [Application period for next Alexa Prize challenge opens](https://www.amazon.science/academic-engagements/application-period-for-next-alexa-prize-challenge-opens)
 - [Hear from the Alexa Prize Socialbot Grand Challenge 3 winners](https://www.amazon.science/videos-webinars/hear-from-the-alexa-prize-socialbot-grand-challenge-3-winners)
 - [Aravind Srinivasan: Amazon Scholar focuses on combinatorial optimization, algorithms, and AI](https://www.amazon.science/working-at-amazon/aravind-srinivasan-amazon-scholar-focuses-on-combinatorial-optimization-algorithms-and-ai)
 - [Data lake vs. data warehouse: Why AWS customers are transitioning to data lakes](https://www.amazon.science/videos-webinars/data-lake-vs-data-warehouse-why-aws-customers-are-transitioning-to-data-lakes)
 - [Amazon Scholar John Preskill on the AWS quantum computing effort](https://www.amazon.science/blog/amazon-scholar-john-preskill-on-the-aws-quantum-computing-effort)
-- [Machine learning tools increase power of hypothesis testing](https://www.amazon.science/blog/machine-learning-tools-increase-power-of-hypothesis-testing)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
