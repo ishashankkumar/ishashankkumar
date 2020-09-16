@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [Samuel L. Jackson celebrity voice for Alexa gets an update](https://www.amazon.science/latest-news/samuel-l-jackson-celebrity-voice-for-alexa-gets-an-update)
 - [The importance of forgetting in artificial and animal intelligence](https://www.amazon.science/blog/the-importance-of-forgetting-in-artificial-and-animal-intelligence)
 - [Application period for next Alexa Prize challenge opens](https://www.amazon.science/academic-engagements/application-period-for-next-alexa-prize-challenge-opens)
 - [Hear from the Alexa Prize Socialbot Grand Challenge 3 winners](https://www.amazon.science/videos-webinars/hear-from-the-alexa-prize-socialbot-grand-challenge-3-winners)
 - [Aravind Srinivasan: Amazon Scholar focuses on combinatorial optimization, algorithms, and AI](https://www.amazon.science/working-at-amazon/aravind-srinivasan-amazon-scholar-focuses-on-combinatorial-optimization-algorithms-and-ai)
-- [Data lake vs. data warehouse: Why AWS customers are transitioning to data lakes](https://www.amazon.science/videos-webinars/data-lake-vs-data-warehouse-why-aws-customers-are-transitioning-to-data-lakes)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
