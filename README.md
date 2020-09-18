@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [Creating AI-driven voice experiences with Alexa Conversations](https://www.amazon.science/videos-webinars/conversational-AI-alexa-dialogue-management)
 - [Women in tech coffee talk at VLDB 2020](https://www.amazon.science/videos-webinars/women-in-tech-coffee-talk-at-vldb-2020)
 - [How to reduce communication overhead for database queries by up to 97%](https://www.amazon.science/blog/how-to-reduce-communication-overhead-for-database-queries-by-up-to-97)
 - [Samuel L. Jackson celebrity voice for Alexa gets an update](https://www.amazon.science/latest-news/samuel-l-jackson-celebrity-voice-for-alexa-gets-an-update)
 - [The importance of forgetting in artificial and animal intelligence](https://www.amazon.science/blog/the-importance-of-forgetting-in-artificial-and-animal-intelligence)
-- [Application period for next Alexa Prize challenge opens](https://www.amazon.science/academic-engagements/application-period-for-next-alexa-prize-challenge-opens)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
