@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [The science behind Echo Show 10](https://www.amazon.science/blog/the-science-behind-echo-show-10)
+- [New Alexa features: Speaking style adaptation](https://www.amazon.science/blog/new-text-to-speech-generator-and-rephraser-move-alexa-toward-concept-to-speech)
+- [New Alexa features: Natural turn-taking](https://www.amazon.science/blog/change-to-alexa-wake-word-process-adds-natural-turn-taking)
+- [New Alexa features: Interactive teaching by customers](https://www.amazon.science/blog/new-alexa-features-interactive-teaching-by-customers)
 - [How to reduce annotation when evaluating AI systems](https://www.amazon.science/blog/how-to-reduce-annotation-when-evaluating-ai-systems)
-- [Columbia Engineering and Amazon announce creation of New York research center](https://www.amazon.science/academic-engagements/columbia-engineering-and-amazon-announce-creation-of-new-york-research-center)
-- [Why a lack of diversity hurts economics—and economists](https://www.amazon.science/why-a-lack-of-diversity-hurts-economics-and-economists)
-- [Amazon to sponsor Howard University summer program aimed at increasing pipeline of minority economists](https://www.amazon.science/latest-news/amazon-to-sponsor-howard-university-summer-program-aimed-at-increasing-pipeline-of-minority-economists)
-- [Creating AI-driven voice experiences with Alexa Conversations](https://www.amazon.science/videos-webinars/conversational-AI-alexa-dialogue-management)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
