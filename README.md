@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [Alexa & Friends features Gokhan Tur, senior principal scientist at Alexa AI](https://www.amazon.science/videos-webinars/alexa-friends-features-gokhan-tur-senior-principal-scientist-at-alexa-ai)
 - [The science behind Echo Show 10](https://www.amazon.science/blog/the-science-behind-echo-show-10)
 - [New Alexa features: Speaking style adaptation](https://www.amazon.science/blog/new-text-to-speech-generator-and-rephraser-move-alexa-toward-concept-to-speech)
 - [New Alexa features: Natural turn-taking](https://www.amazon.science/blog/change-to-alexa-wake-word-process-adds-natural-turn-taking)
 - [New Alexa features: Interactive teaching by customers](https://www.amazon.science/blog/new-alexa-features-interactive-teaching-by-customers)
-- [How to reduce annotation when evaluating AI systems](https://www.amazon.science/blog/how-to-reduce-annotation-when-evaluating-ai-systems)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
