@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [How to compute the optimal way to package Amazon products](https://www.amazon.science/blog/how-to-compute-the-optimal-way-to-package-amazon-products)
 - [Improving complementary-product recommendations](https://www.amazon.science/blog/improving-complementary-product-recommendations)
 - [AWS and PHDA collaborate to produce more accurate machine learning models for breast cancer screening and depression](https://www.amazon.science/aws-and-phda-collaborate-to-produce-more-accurate-machine-learning-models-for-breast-cancer-screening-and-depression)
 - [Amazon launches online challenge to spur research on generalizing dialogue agents](https://www.amazon.science/blog/amazon-launches-online-challenge-to-spur-research-on-generalizing-dialogue-agents)
 - [Emine Yilmaz: An Amazon Scholar advancing the state of the art in voice shopping](https://www.amazon.science/working-at-amazon/emine-yilmaz-an-amazon-scholar-advancing-alexa-voice-shopping)
-- [How to test for COVID-19 efficiently](https://www.amazon.science/blog/how-to-test-for-covid-19-efficiently)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
