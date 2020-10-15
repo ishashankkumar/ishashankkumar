@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [Alexa & Friends features Andrew Breen, senior manager of speech research, Alexa AI](https://www.amazon.science/videos-webinars/alexa-friends-features-andrew-breen-senior-manager-of-speech-research-alexa-ai)
 - [How distinguished scientist Garrett van Ryzin is optimizing his time at Amazon](https://www.amazon.science/working-at-amazon/how-distinguished-scientist-garrett-van-ryzin-is-optimizing-his-time-at-amazon)
 - [How to compute the optimal way to package Amazon products](https://www.amazon.science/blog/how-to-compute-the-optimal-way-to-package-amazon-products)
 - [Improving complementary-product recommendations](https://www.amazon.science/blog/improving-complementary-product-recommendations)
 - [AWS and PHDA collaborate to produce more accurate machine learning models for breast cancer screening and depression](https://www.amazon.science/aws-and-phda-collaborate-to-produce-more-accurate-machine-learning-models-for-breast-cancer-screening-and-depression)
-- [Amazon launches online challenge to spur research on generalizing dialogue agents](https://www.amazon.science/blog/amazon-launches-online-challenge-to-spur-research-on-generalizing-dialogue-agents)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
