@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [For Neha Rungta, it's the journey that matters](https://www.amazon.science/working-at-amazon-from-nasa-ames-research-center-to-automated-reasoning-group-aws-neha-rungta)
 - [Ceres: Harvesting knowledge from the semi-structured web](https://www.amazon.science/videos-webinars/ceres-harvesting-knowledge-from-the-semi-structured-web)
 - [Bernhard Schölkopf wins German AI Innovation Award](https://www.amazon.science/latest-news/bernhard-scholkopf-wins-german-ai-innovation-award)
 - [Alexa’s new speech recognition abilities showcased at Interspeech](https://www.amazon.science/blog/alexas-new-speech-recognition-abilities-showcased-at-interspeech)
 - [A general approach to solving bandit problems](https://www.amazon.science/blog/a-general-approach-to-solving-bandit-problems)
-- [Amazon Scholars Michael Kearns and Aaron Roth discuss the ethics of machine learning](https://www.amazon.science/latest-news/amazon-scholars-michael-kearns-and-aaron-roth-discuss-the-ethics-of-machine-learning)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
