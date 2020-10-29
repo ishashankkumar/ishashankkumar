@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [Successes, challenges and opportunities for speech technology in conversational agents](https://www.amazon.science/videos-webinars/successes-challenges-and-opportunities-for-speech-technology-in-conversational-agents)
 - [Amazon Consumer Science Summit goes virtual](https://www.amazon.science/latest-news/amazon-consumer-science-summit-goes-virtual)
 - [Amazon’s new research on automatic speech recognition](https://www.amazon.science/blog/amazons-new-research-on-automatic-speech-recognition)
 - [How Alexa scientists are advancing speech science](https://www.amazon.science/videos-webinars/how-alexa-scientists-are-advancing-speech-science)
 - [New sound detection approach improves on state of the art](https://www.amazon.science/blog/new-sound-detection-approach-improves-on-state-of-the-art)
-- [For Neha Rungta, it's the journey that matters](https://www.amazon.science/working-at-amazon-from-nasa-ames-research-center-to-automated-reasoning-group-aws-neha-rungta)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
