@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [Nine university teams selected to compete in the Alexa Prize Socialbot Grand Challenge 4](https://www.amazon.science/latest-news/nine-university-teams-selected-to-compete-in-the-alexa-prize-socialbot-grand-challenge-4)
 - [How Amazon scientists are helping the Scout delivery device find a path to success](https://www.amazon.science/latest-news/how-amazon-scientists-are-helping-the-scout-delivery-device-find-a-path-to-success)
 - [More-natural prosody for synthesized speech](https://www.amazon.science/blog/more-natural-prosody-for-synthesized-speech)
 - [Successes, challenges and opportunities for speech technology in conversational agents](https://www.amazon.science/videos-webinars/successes-challenges-and-opportunities-for-speech-technology-in-conversational-agents)
 - [Alexa scientists discuss relevant work in the field of conversational AI](https://www.amazon.science/videos-webinars/Alexa-scientists-discuss-relevant-work-in-conversational-AI)
-- [Amazon Consumer Science Summit goes virtual](https://www.amazon.science/latest-news/amazon-consumer-science-summit-goes-virtual)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
