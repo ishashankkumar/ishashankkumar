@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [Can computational linguists find a home in the technology industry?](https://www.amazon.science/working-at-amazon/can-computational-linguists-find-a-home-in-the-technology-industry)
 - [Amazon panel to discuss latest in NLP and conversational AI](https://www.amazon.science/videos-webinars/amazon-panel-to-discuss-latest-in-nlp-and-conversational-ai)
 - [TEC: A young conference for an emerging field](https://www.amazon.science/blog/tec-a-young-conference-for-an-emerging-field)
 - [Amazon women in science and engineering panel to discuss STEM diversity](https://www.amazon.science/videos-webinars/amazon-women-in-science-and-engineering-panel-to-discuss-stem-diversity)
 - [Amazon Alexa’s new wake word research at Interspeech](https://www.amazon.science/blog/amazon-alexas-new-wake-word-research-at-interspeech)
-- [Nine university teams selected to compete in the Alexa Prize Socialbot Grand Challenge 4](https://www.amazon.science/latest-news/nine-university-teams-selected-to-compete-in-the-alexa-prize-socialbot-grand-challenge-4)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
