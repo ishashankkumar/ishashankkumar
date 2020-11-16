@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [As voice agents proliferate, EMNLP broadens its scope](https://www.amazon.science/blog/as-voice-agents-proliferate-emnlp-broadens-its-scope)
 - [Amazon Robotics is primary sponsor of new Black in Robotics Boston chapter](https://www.amazon.science/latest-news/amazon-robotics-is-primary-sponsor-of-new-black-in-robotics-boston-chapter)
 - [Alexa gets better at predicting customers’ goals](https://www.amazon.science/blog/alexa-gets-better-at-predicting-customers-goals)
 - [Can computational linguists find a home in the technology industry?](https://www.amazon.science/working-at-amazon/can-computational-linguists-find-a-home-in-the-technology-industry)
 - [Amazon panel to discuss latest in NLP and conversational AI](https://www.amazon.science/videos-webinars/amazon-panel-to-discuss-latest-in-nlp-and-conversational-ai)
-- [TEC: A young conference for an emerging field](https://www.amazon.science/blog/tec-a-young-conference-for-an-emerging-field)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
