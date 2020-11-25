@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [Mitigating social bias in knowledge graph embeddings](https://www.amazon.science/blog/mitigating-social-bias-in-knowledge-graph-embeddings)
+- [Amazon panel to host virtual event on fairness in AI](https://www.amazon.science/around-amazon/amazon-panel-to-host-virtual-event-on-fairness-in-ai)
 - [Alexa & Friends to host Ruhi Sarikaya, director of applied science at Alexa AI](https://www.amazon.science/videos-webinars/alexa-friends-to-host-ruhi-sarikaya-director-of-applied-science-at-alexa-ai)
 - [Automatically assessing conversations with Alexa](https://www.amazon.science/blog/automatically-assessing-conversations-with-alexa)
 - [How to make AI better at reading comprehension](https://www.amazon.science/blog/how-to-make-ai-better-at-reading-comprehension)
-- [How Rajeev Rastogi’s machine learning team in India develops innovations for customers worldwide](https://www.amazon.science/working-at-amazon/how-rajeev-rastogis-machine-learning-team-in-india-develops-innovations-for-customers-worldwide)
-- [As voice agents proliferate, EMNLP broadens its scope](https://www.amazon.science/blog/as-voice-agents-proliferate-emnlp-broadens-its-scope)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
