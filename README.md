@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [Machine learning models that act on encrypted data](https://www.amazon.science/blog/machine-learning-models-that-act-on-encrypted-data)
 - [The science behind Endel's AI-powered soundscapes](https://www.amazon.science/latest-news/the-science-behind-endels-ai-powered-soundscapes)
 - [Mitigating social bias in knowledge graph embeddings](https://www.amazon.science/blog/mitigating-social-bias-in-knowledge-graph-embeddings)
 - [Amazon panel to host virtual event on fairness in AI](https://www.amazon.science/videos-webinars/amazon-panel-to-host-virtual-event-on-fairness-in-AI)
 - [Alexa & Friends to host Ruhi Sarikaya, director of applied science at Alexa AI](https://www.amazon.science/videos-webinars/alexa-friends-to-host-ruhi-sarikaya-director-of-applied-science-at-alexa-ai)
-- [Automatically assessing conversations with Alexa](https://www.amazon.science/blog/automatically-assessing-conversations-with-alexa)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
