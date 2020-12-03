@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [Amazon takes top three spots in Audio Anomaly Detection Challenge](https://www.amazon.science/blog/amazon-takes-top-three-spots-in-audio-anomaly-detection-challenge)
 - [A version of the BERT language model that’s 20 times as fast](https://www.amazon.science/blog/a-version-of-the-bert-language-model-thats-20-times-as-fast)
 - [Amazon Research Award recipient develops new tool to diagnose dystonia](https://www.amazon.science/latest-news/amazon-research-award-recipient-develops-new-tool-to-diagnose-dystonia)
 - [Machine learning models that act on encrypted data](https://www.amazon.science/blog/machine-learning-models-that-act-on-encrypted-data)
 - [The science behind Endel's AI-powered soundscapes](https://www.amazon.science/latest-news/the-science-behind-endels-ai-powered-soundscapes)
-- [Mitigating social bias in knowledge graph embeddings](https://www.amazon.science/blog/mitigating-social-bias-in-knowledge-graph-embeddings)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
