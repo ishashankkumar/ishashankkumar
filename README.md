@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [Amazon Scholar George Karypis receives ICDM 10-Year-Highest-Impact award](https://www.amazon.science/latest-news/amazon-scholar-george-karypis-receives-icdm-10-year-highest-impact-award)
 - [NeurIPS: Shipra Agrawal on the appeal of reinforcement learning](https://www.amazon.science/blog/neurips-shipra-agrawal-on-the-appeal-of-reinforcement-learning)
 - [How a ‘Think Big’ idea helped bring Lookout for Vision to life](https://www.amazon.science/latest-news/how-a-think-big-idea-helped-bring-lookout-for-vision-to-life)
 - [Amazon Alexa scientists Yang Liu and Ruhi Sarikaya named IEEE Fellows](https://www.amazon.science/latest-news/amazon-alexa-scientists-yang-liu-and-ruhi-sarikaya-named-ieee-fellows)
 - [Amazon takes top three spots in Audio Anomaly Detection Challenge](https://www.amazon.science/blog/amazon-takes-top-three-spots-in-audio-anomaly-detection-challenge)
-- [A version of the BERT language model that’s 20 times as fast](https://www.amazon.science/blog/a-version-of-the-bert-language-model-thats-20-times-as-fast)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
