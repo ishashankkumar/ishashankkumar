@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [How Alexa's new Live Translation for conversations works](https://www.amazon.science/blog/how-alexas-new-live-translation-for-conversations-works)
 - [Multi-agent reinforcement learning for an uncertain world](https://www.amazon.science/blog/multi-agent-reinforcement-learning-for-an-uncertain-world)
 - [AWS director of machine learning explains the significance of new Amazon HealthLake service](https://www.amazon.science/latest-news/aws-director-of-machine-learning-explains-the-significance-of-new-amazon-healthlake-service)
 - [How Clarify helps machine learning developers detect unintended bias](https://www.amazon.science/latest-news/how-clarify-helps-machine-learning-developers-detect-unintended-bias)
 - [The science behind Amazon SageMaker’s distributed-training engines](https://www.amazon.science/latest-news/the-science-of-amazon-sagemakers-distributed-training-engines)
-- [AWS democratizes access to the largest genomic sequences repository — NIH’s Sequence Read Archive](https://www.amazon.science/latest-news/aws-democratizes-access-to-the-largest-genomic-sequences-repository-nihs-sequence-read-archive)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
