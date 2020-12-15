@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [Fault-tolerant quantum circuits with much lower overhead](https://www.amazon.science/blog/fault-tolerant-quantum-circuits-with-much-lower-overhead)
 - [NeurIPS reinforcement-learning-challenge winners announced](https://www.amazon.science/blog/neurips-reinforcement-learning-challenge-winners-announced)
 - [How Alexa's new Live Translation for conversations works](https://www.amazon.science/blog/how-alexas-new-live-translation-for-conversations-works)
 - [Multi-agent reinforcement learning for an uncertain world](https://www.amazon.science/blog/multi-agent-reinforcement-learning-for-an-uncertain-world)
 - [AWS director of machine learning explains the significance of new Amazon HealthLake service](https://www.amazon.science/latest-news/aws-director-of-machine-learning-explains-the-significance-of-new-amazon-healthlake-service)
-- [How Clarify helps machine learning developers detect unintended bias](https://www.amazon.science/latest-news/how-clarify-helps-machine-learning-developers-detect-unintended-bias)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
