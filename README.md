@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [Using knowledge graphs to streamline COVID-19 research](https://www.amazon.science/blog/using-knowledge-graphs-to-streamline-covid-19-research)
 - [Christos Faloutsos awarded PAKDD’s “Most Influential Paper Award”](https://www.amazon.science/latest-news/christos-faloutsos-awarded-pakdds-most-influential-paper-award)
 - [Amazon wins best-paper award at computational-linguistics conference](https://www.amazon.science/blog/amazon-wins-best-paper-award-at-computational-linguistics-conference)
 - [How Michelle K. Lee plans to help businesses tap into the potential of machine learning](https://www.amazon.science/working-at-amazon/how-michelle-k-lee-plans-to-help-businesses-tap-into-the-potential-of-machine-learning)
 - [Fault-tolerant quantum circuits with much lower overhead](https://www.amazon.science/blog/fault-tolerant-quantum-circuits-with-much-lower-overhead)
-- [NeurIPS reinforcement-learning-challenge winners announced](https://www.amazon.science/blog/neurips-reinforcement-learning-challenge-winners-announced)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
