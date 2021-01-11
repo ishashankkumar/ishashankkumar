@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [How Amazon Fresh is leveraging scientific innovation to meet increased consumer demand](https://www.amazon.science/latest-news/how-amazon-fresh-is-leveraging-scientific-innovation-to-meet-increased-consumer-demand)
 - [Amazon at WACV: Computer vision is more than labeling pixels](https://www.amazon.science/blog/amazon-at-wacv-computer-vision-is-more-than-labeling-pixels)
 - [Amazon at AEA: Empirical economics and research design](https://www.amazon.science/blog/amazon-at-aea-empirical-economics-and-research-design)
 - [Building machine learning models with encrypted data](https://www.amazon.science/blog/building-machine-learning-models-with-encrypted-data)
 - [The science behind Amazon's new StyleSnap for Home feature](https://www.amazon.science/latest-news/the-science-behind-amazons-new-stylesnap-for-home-feature)
-- [Amazon Machine Learning University launches new, advanced course](https://www.amazon.science/latest-news/amazon-machine-learning-university-launches-new-advanced-course)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
