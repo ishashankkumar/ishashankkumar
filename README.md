@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [Cross-lingual transfer learning for multilingual voice agents](https://www.amazon.science/blog/cross-lingual-transfer-learning-for-multilingual-voice-agents)
 - [From intern to applied scientist: How Theodore Vasiloudis made the transition](https://www.amazon.science/working-at-amazon/from-intern-to-applied-scientist-how-theodore-vasiloudis-made-the-transition)
 - [How Amazon Fresh is leveraging scientific innovation to meet increased consumer demand](https://www.amazon.science/latest-news/how-amazon-fresh-is-leveraging-scientific-innovation-to-meet-increased-consumer-demand)
 - [Amazon at WACV: Computer vision is more than labeling pixels](https://www.amazon.science/blog/amazon-at-wacv-computer-vision-is-more-than-labeling-pixels)
 - [Amazon at AEA: Empirical economics and research design](https://www.amazon.science/blog/amazon-at-aea-empirical-economics-and-research-design)
-- [Building machine learning models with encrypted data](https://www.amazon.science/blog/building-machine-learning-models-with-encrypted-data)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
