@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [Prime Video's work on sports field registration, recap/intro detection](https://www.amazon.science/blog/prime-videos-work-on-sports-field-registration-recap-intro-detection)
 - [Swami Sivasubramanian: Machine learning is ‘one of the most disruptive technologies we will encounter in our generation’](https://www.amazon.science/latest-news/swami-sivasubramanian-machine-learning-is-one-of-the-most-disruptive-technologies-we-will-encounter-in-our-generation)
 - [Cross-lingual transfer learning for multilingual voice agents](https://www.amazon.science/blog/cross-lingual-transfer-learning-for-multilingual-voice-agents)
 - [From intern to applied scientist: How Theodore Vasiloudis made the transition](https://www.amazon.science/working-at-amazon/from-intern-to-applied-scientist-how-theodore-vasiloudis-made-the-transition)
 - [How Amazon Fresh is leveraging scientific innovation to meet increased consumer demand](https://www.amazon.science/latest-news/how-amazon-fresh-is-leveraging-scientific-innovation-to-meet-increased-consumer-demand)
-- [Amazon at WACV: Computer vision is more than labeling pixels](https://www.amazon.science/blog/amazon-at-wacv-computer-vision-is-more-than-labeling-pixels)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
