@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [Amazon Scholars Michael Kearns and Aaron Roth win 2021 prose award](https://www.amazon.science/latest-news/amazon-scholars-michael-kearns-and-aaron-roth-win-2021-prose-award)
 - [USC and Amazon establish Center for Secure and Trusted Machine Learning](https://www.amazon.science/academic-engagements/usc-and-amazon-establish-center-for-secure-and-trusted-machine-learning)
 - [No PhD, no problem: One software engineer’s path to applied science](https://www.amazon.science/working-at-amazon/no-phd-no-problem-one-software-engineers-path-to-applied-science)
 - [Learning new language-understanding tasks from just a few examples](https://www.amazon.science/blog/learning-new-language-understanding-tasks-from-just-a-few-examples)
 - [Amazon at SLT: The fusion of speech and language understanding](https://www.amazon.science/blog/amazon-at-slt-the-fusion-of-speech-and-language-understanding)
-- [Prime Video's work on sports field registration, recap/intro detection](https://www.amazon.science/blog/prime-videos-work-on-sports-field-registration-recap-intro-detection)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
