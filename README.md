@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [How AWS scientists help create the NFL’s Next Gen Stats](https://www.amazon.science/latest-news/how-aws-scientists-help-create-the-nfls-next-gen-stats)
 - [The quantum gambit](https://www.amazon.science/latest-news/the-quantum-gambit)
 - [AWS scientists coauthor 13 QIP 2021 quantum computing papers](https://www.amazon.science/blog/aws-scientists-coauthor-13-qip-2021-quantum-computing-papers)
 - [“Talking to the public about AI”](https://www.amazon.science/talking-to-the-public-about-ai)
 - [English-language Alexa voice learns to speak Spanish](https://www.amazon.science/blog/english-language-alexa-voice-learns-to-speak-spanish)
-- [Does the Turing Test pass the test of time?](https://www.amazon.science/latest-news/does-the-turing-test-pass-the-test-of-time)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
