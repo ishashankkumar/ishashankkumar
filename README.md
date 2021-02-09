@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [How a university researcher is using machine learning to help identify suicide risk](https://www.amazon.science/research-awards/success-stories/how-a-university-researcher-is-using-machine-learning-to-help-identify-suicide-risk)
 - [Teaching robots to respond to natural-language commands](https://www.amazon.science/blog/teaching-robots-to-respond-to-natural-language-commands)
 - [Alexa & Friends features Kayoko Yanagisawa, senior speech scientist, Alexa AI](https://www.amazon.science/videos-webinars/alexa-friends-features-kayoko-yanagisawa-senior-speech-scientist-alexa-ai)
 - [How AWS scientists help create the NFL’s Next Gen Stats](https://www.amazon.science/latest-news/how-aws-scientists-help-create-the-nfls-next-gen-stats)
 - [The quantum gambit](https://www.amazon.science/latest-news/the-quantum-gambit)
-- [AWS scientists coauthor 13 QIP 2021 quantum computing papers](https://www.amazon.science/blog/aws-scientists-coauthor-13-qip-2021-quantum-computing-papers)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
