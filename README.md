@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [Amazon, MIT team up to add driver know-how to delivery-routing models](https://www.amazon.science/blog/amazon-mit-team-up-to-add-driver-know-how-to-delivery-routing-models)
 - [Growing generative adversarial networks, layer by layer](https://www.amazon.science/blog/growing-generative-adversarial-networks-layer-by-layer)
 - [AWS Machine Learning Research Awards recipients announced](https://www.amazon.science/research-awards/program-updates/aws-machine-learning-research-awards-recipients-announced)
 - [AWS scientist Li Zhang awarded IEEE INFOCOM test of time paper award](https://www.amazon.science/latest-news/aws-scientist-li-zhang-awarded-ieee-infocom-test-of-time-paper-award)
 - [National Science Foundation, in collaboration with Amazon, awards 11 Fairness in AI grant projects](https://www.amazon.science/academic-engagements/national-science-foundation-in-collaboration-with-amazon-awards-11-fairness-in-ai-grant-projects)
-- [How a university researcher is using machine learning to help identify suicide risk](https://www.amazon.science/research-awards/success-stories/how-a-university-researcher-is-using-machine-learning-to-help-identify-suicide-risk)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
