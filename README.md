@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [Oluwaseyi Feyisetan named to IAPP research advisory board](https://www.amazon.science/latest-news/oluwaseyi-feyisetan-named-to-iapp-research-advisory-board)
 - [Abdigani Diriye named among top young African economic leaders](https://www.amazon.science/latest-news/abdigani-diriye-named-among-top-young-african-economic-leaders)
 - [Amazon, MIT team up to add driver know-how to delivery-routing models](https://www.amazon.science/blog/amazon-mit-team-up-to-add-driver-know-how-to-delivery-routing-models)
 - [Growing generative adversarial networks, layer by layer](https://www.amazon.science/blog/growing-generative-adversarial-networks-layer-by-layer)
 - [AWS Machine Learning Research Awards recipients announced](https://www.amazon.science/research-awards/program-updates/aws-machine-learning-research-awards-recipients-announced)
-- [AWS scientist Li Zhang awarded IEEE INFOCOM test of time paper award](https://www.amazon.science/latest-news/aws-scientist-li-zhang-awarded-ieee-infocom-test-of-time-paper-award)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
