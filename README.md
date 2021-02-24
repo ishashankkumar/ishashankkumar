@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [Amazon Scholar Alla Sheffer uses computer graphics to drive improvements in garment sizing and fitting](https://www.amazon.science/working-at-amazon/amazon-scholar-alla-sheffer-uses-computer-graphics-to-drive-improvements-in-garment-sizing-and-fitting)
 - [Paper on forecasting spread of COVID-19 wins best-paper award](https://www.amazon.science/blog/paper-on-forecasting-spread-of-covid-19-wins-best-paper-award)
 - [Oluwaseyi Feyisetan named to IAPP research advisory board](https://www.amazon.science/latest-news/oluwaseyi-feyisetan-named-to-iapp-research-advisory-board)
 - [Abdigani Diriye named among top young African economic leaders](https://www.amazon.science/latest-news/abdigani-diriye-named-among-top-young-african-economic-leaders)
 - [Amazon, MIT team up to add driver know-how to delivery-routing models](https://www.amazon.science/blog/amazon-mit-team-up-to-add-driver-know-how-to-delivery-routing-models)
-- [Growing generative adversarial networks, layer by layer](https://www.amazon.science/blog/growing-generative-adversarial-networks-layer-by-layer)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
