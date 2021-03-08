@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [Teaching neural networks to compress images](https://www.amazon.science/blog/teaching-neural-networks-to-compress-images)
 - [Amazon at WSDM: How the scale of the web makes old problems new](https://www.amazon.science/blog/amazon-at-wsdm-how-the-scale-of-the-web-makes-old-problems-new)
 - [Two Amazon papers were runners-up for best-paper awards at AAAI](https://www.amazon.science/blog/two-amazon-papers-were-runners-up-for-best-paper-awards-at-aaai)
 - [Dive into Deep Learning adds attention mechanism chapter](https://www.amazon.science/latest-news/dive-into-deep-learning-adds-attention-mechanism-chapter)
 - [Making an art collection browsable by voice](https://www.amazon.science/latest-news/art-institute-of-chicago-alexa-conversations-art-museum-skill)
-- [The intersection of design and science](https://www.amazon.science/latest-news/echo-show-10-the-intersection-of-design-and-science)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
