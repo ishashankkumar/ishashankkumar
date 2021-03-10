@@ -13,7 +13,7 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
-- [Working toward fairer machine learning](https://www.amazon.science/research-awards/algorithmic-bias-and-fairness-in-machine-learning)
+- [Working toward fairer machine learning](https://www.amazon.science/research-awards/success-stories/algorithmic-bias-and-fairness-in-machine-learning)
 - [Fostering a culture of innovation](https://www.amazon.science/working-at-amazon/fostering-a-culture-of-innovation)
 - [Teaching neural networks to compress images](https://www.amazon.science/blog/teaching-neural-networks-to-compress-images)
 - [Amazon at WSDM: How the scale of the web makes old problems new](https://www.amazon.science/blog/amazon-at-wsdm-how-the-scale-of-the-web-makes-old-problems-new)
