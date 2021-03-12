@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [Alexa & Friends features Yoelle Maarek, vice president of research and science, Alexa Shopping](https://www.amazon.science/videos-webinars/alexa-friends-features-yoelle-maarek-vice-president-of-research-and-science-alexa-shopping)
 - [Amazon panel discusses Alexa Prize and other applied science initiatives at WSDM 2021](https://www.amazon.science/videos-webinars/amazon-panel-discusses-alexa-prize-and-other-applied-science-initiatives-at-wsdm-2021)
 - [Amazon launches new Alexa Prize TaskBot Challenge](https://www.amazon.science/academic-engagements/amazon-launches-new-alexa-prize-taskbot-challenge)
 - [Working toward fairer machine learning](https://www.amazon.science/research-awards/success-stories/algorithmic-bias-and-fairness-in-machine-learning)
 - [Fostering a culture of innovation](https://www.amazon.science/working-at-amazon/fostering-a-culture-of-innovation)
-- [Teaching neural networks to compress images](https://www.amazon.science/blog/teaching-neural-networks-to-compress-images)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
