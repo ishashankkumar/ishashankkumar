@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [How one intern’s research had real-world impact for Twitch moderators](https://www.amazon.science/working-at-amazon/how-one-interns-research-had-real-world-impact-for-twitch-moderators)
 - [Alexa & Friends features Yoelle Maarek, vice president of research and science, Alexa Shopping](https://www.amazon.science/videos-webinars/alexa-friends-features-yoelle-maarek-vice-president-of-research-and-science-alexa-shopping)
 - [Amazon panel discusses Alexa Prize and other applied science initiatives at WSDM 2021](https://www.amazon.science/videos-webinars/amazon-panel-discusses-alexa-prize-and-other-applied-science-initiatives-at-wsdm-2021)
 - [Amazon launches new Alexa Prize TaskBot Challenge](https://www.amazon.science/academic-engagements/amazon-launches-new-alexa-prize-taskbot-challenge)
 - [Working toward fairer machine learning](https://www.amazon.science/research-awards/success-stories/algorithmic-bias-and-fairness-in-machine-learning)
-- [Fostering a culture of innovation](https://www.amazon.science/working-at-amazon/fostering-a-culture-of-innovation)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
