@@ -13,7 +13,7 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
-- [Amazon@ECIR: Where information retrieval becomes conversation](https://www.amazon.science/blog/amazon-ecir-where-information-retrieval-becomes-conversation)
+- [ECIR 2021: Where information retrieval becomes conversation](https://www.amazon.science/blog/amazon-ecir-where-information-retrieval-becomes-conversation)
 - [New dataset, metrics enable evaluation of bias in language models](https://www.amazon.science/blog/new-dataset-metrics-enable-evaluation-of-bias-in-language-models)
 - [How one computer scientist and his team aim to bring genome data search to the next level](https://www.amazon.science/research-awards/success-stories/genomic-data-science-stefano-ceri)
 - [Lab126, University of Maryland collaborate to develop reliability models to build resilient devices](https://www.amazon.science/latest-news/lab126-university-of-maryland-collaborate-to-develop-reliability-models-to-build-resilient-devices)
