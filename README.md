@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [The science behind SageMaker’s cost-saving Debugger](https://www.amazon.science/blog/the-science-behind-sagemakers-cost-saving-debugger)
 - [How a paper by three Oxford academics influenced AWS bias and explainability software](https://www.amazon.science/latest-news/how-a-paper-by-three-oxford-academics-influenced-aws-bias-and-explainability-software)
 - [Alexa: The science must go on](https://www.amazon.science/blog/alexa-the-science-must-go-on)
 - [Amazon Scholar has his eyes on the future of robot movement](https://www.amazon.science/working-at-amazon/amazon-robotics-scholar-bill-smart-has-his-eyes-on-the-future-of-robot-movement)
 - [MLSys 2021: Bridging the divide between machine learning and systems](https://www.amazon.science/blog/mlsys-bridging-the-divide-between-machine-learning-and-systems)
-- [ECIR 2021: Where information retrieval becomes conversation](https://www.amazon.science/blog/amazon-ecir-where-information-retrieval-becomes-conversation)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
