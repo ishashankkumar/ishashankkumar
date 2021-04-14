@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [Improving the accuracy of privacy-preserving neural networks](https://www.amazon.science/blog/improving-the-accuracy-of-privacy-preserving-neural-networks)
 - [How three science PhDs found different career paths at Amazon](https://www.amazon.science/working-at-amazon/how-three-science-phds-found-different-career-paths-at-amazon)
 - [Using machine learning for virtual-machine placement in the cloud](https://www.amazon.science/blog/using-machine-learning-for-virtual-machine-placement-in-the-cloud)
 - [Alexa & Friends features Spyros Matsoukas, senior principal applied scientist, Alexa AI](https://www.amazon.science/videos-webinars/alexa-friends-features-spyros-matsoukas-senior-principal-applied-scientist-alexa-ai)
 - [Amazon Web Services to hold Machine Learning Summit](https://www.amazon.science/latest-news/amazon-web-services-to-hold-machine-learning-summit)
-- [Automatically generating text from structured data](https://www.amazon.science/blog/automatically-generating-text-from-structured-data)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
