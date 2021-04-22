@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [How Amazon's Middle Mile team helps packages make the journey to your doorstep](https://www.amazon.science/latest-news/how-amazons-middle-mile-team-helps-packages-make-the-journey-to-your-doorstep)
 - [Amazon collaborates with Earth System Grid Federation to increase access to climate model dataset](https://www.amazon.science/latest-news/amazon-collaborates-with-earth-system-grid-federation-to-increase-access-to-climate-model-dataset)
 - [3 questions with Marzia Polito: Performing computer vision tasks at scale with few-shot learning](https://www.amazon.science/latest-news/3-questions-with-marzia-polito-performing-computer-vision-tasks-at-scale-with-few-shot-learning)
 - [How automated reasoning improves the Prime Video experience](https://www.amazon.science/blog/how-automated-reasoning-improves-the-prime-video-experience)
 - [TheWebConf: Where communities converge on questions of scale](https://www.amazon.science/blog/thewebconf-where-communities-converge-on-questions-of-scale)
-- [Improving the accuracy of privacy-preserving neural networks](https://www.amazon.science/blog/improving-the-accuracy-of-privacy-preserving-neural-networks)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
