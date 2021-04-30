@@ -14,10 +14,10 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
 - [Caltech names eight AI4Science fellows supported by Amazon](https://www.amazon.science/academic-engagements/caltech-names-eight-ai4science-fellows-supported-by-amazon)
-- [ICLR: What representation learning means in the data center](https://www.amazon.science/blog/iclr-what-representation-learning-means-in-the-data-center)
 - [Two Amazon Scholars elected to prestigious science organizations](https://www.amazon.science/academic-engagements/two-amazon-scholars-elected-to-prestigious-science-organizations)
 - [Amazon open-sources library for prediction over large output spaces](https://www.amazon.science/blog/amazon-open-sources-library-for-prediction-over-large-output-spaces)
 - [Explaining changes in real-world data](https://www.amazon.science/blog/explaining-changes-in-real-world-data)
+- [Celebrating World Book Day](https://www.amazon.science/latest-news/celebrating-world-book-day)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
