@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [How Muthoni Ngatia’s childhood in Kenya led her to a career in economics](https://www.amazon.science/working-at-amazon/how-muthoni-ngatias-childhood-in-kenya-led-her-to-a-career-in-economics)
 - [Amazon helps launch workshop on synthetic data generation](https://www.amazon.science/blog/amazon-helps-launch-workshop-on-synthetic-data-generation)
 - [Caltech names eight AI4Science fellows supported by Amazon](https://www.amazon.science/academic-engagements/caltech-names-eight-ai4science-fellows-supported-by-amazon)
 - [ICLR: What representation learning means in the data center](https://www.amazon.science/blog/iclr-what-representation-learning-means-in-the-data-center)
 - [Two Amazon Scholars elected to prestigious science organizations](https://www.amazon.science/academic-engagements/two-amazon-scholars-elected-to-prestigious-science-organizations)
-- [Amazon open-sources library for prediction over large output spaces](https://www.amazon.science/blog/amazon-open-sources-library-for-prediction-over-large-output-spaces)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
