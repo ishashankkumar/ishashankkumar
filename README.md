@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [Improving explainable AI’s explanations](https://www.amazon.science/blog/improving-explainable-ais-explanations)
 - [3 questions with Michael Kearns: Designing socially aware algorithms and models](https://www.amazon.science/latest-news/3-questions-with-michael-kearns-designing-socially-aware-algorithms-and-models)
 - [How Endel’s AI-powered Focus soundscapes earned the backing of neuroscience](https://www.amazon.science/latest-news/how-endels-ai-powered-focus-soundscapes-earned-the-backing-of-neuroscience)
 - [How Muthoni Ngatia’s childhood in Kenya led her to a career in economics](https://www.amazon.science/working-at-amazon/how-muthoni-ngatias-childhood-in-kenya-led-her-to-a-career-in-economics)
 - [Amazon helps launch workshop on synthetic data generation](https://www.amazon.science/blog/amazon-helps-launch-workshop-on-synthetic-data-generation)
-- [Caltech names eight AI4Science fellows supported by Amazon](https://www.amazon.science/academic-engagements/caltech-names-eight-ai4science-fellows-supported-by-amazon)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
