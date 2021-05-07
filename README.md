@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [Using hyperboloids to embed knowledge graphs](https://www.amazon.science/blog/using-hyperboloids-to-embed-knowledge-graphs)
 - [Michael Bronstein aims to unite the deep learning community](https://www.amazon.science/research-awards/success-stories/michael-bronstein-aims-to-unite-the-deep-learning-community)
 - [Improving explainable AI’s explanations](https://www.amazon.science/blog/improving-explainable-ais-explanations)
 - [3 questions with Michael Kearns: Designing socially aware algorithms and models](https://www.amazon.science/latest-news/3-questions-with-michael-kearns-designing-socially-aware-algorithms-and-models)
 - [How Endel’s AI-powered Focus soundscapes earned the backing of neuroscience](https://www.amazon.science/latest-news/how-endels-ai-powered-focus-soundscapes-earned-the-backing-of-neuroscience)
-- [How Muthoni Ngatia’s childhood in Kenya led her to a career in economics](https://www.amazon.science/working-at-amazon/how-muthoni-ngatias-childhood-in-kenya-led-her-to-a-career-in-economics)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
