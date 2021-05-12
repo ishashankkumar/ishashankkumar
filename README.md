@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [Alexa & Friends features Nikko Ström, Alexa AI vice president and distinguished scientist](https://www.amazon.science/videos-webinars/alexa-friends-features-nikko-strom-alexa-ai-vice-president-and-distinguished-scientist)
 - [New workshop, dataset will help promote safety in the skies](https://www.amazon.science/blog/new-workshop-dataset-will-help-promote-safety-in-the-skies)
 - [3 questions with Philip Resnik: Analyzing social media to understand the risks of suicide](https://www.amazon.science/latest-news/3-questions-with-philip-resnik-analyzing-social-media-to-understand-the-risks-of-suicide)
 - [From pure mathematician to Amazon applied scientist](https://www.amazon.science/working-at-amazon/giovanni-paolini-from-pure-mathematician-to-applied-scientist)
 - [Using hyperboloids to embed knowledge graphs](https://www.amazon.science/blog/using-hyperboloids-to-embed-knowledge-graphs)
-- [Michael Bronstein aims to unite the deep learning community](https://www.amazon.science/research-awards/success-stories/michael-bronstein-aims-to-unite-the-deep-learning-community)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
