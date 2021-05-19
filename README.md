@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [Amazon wins best-paper award for protecting privacy of training data](https://www.amazon.science/blog/amazon-wins-best-paper-award-for-protecting-privacy-of-training-data)
 - [3 questions with Ryan Tibshirani: The science behind COVIDcast and pandemic tracking](https://www.amazon.science/latest-news/3-questions-with-ryan-tibshirani-the-science-behind-covidcast-and-pandemic-tracking)
 - [The science behind an Amazon Echo feature that helped save a puppy](https://www.amazon.science/latest-news/the-science-behind-an-amazon-echo-feature-that-helped-save-a-puppy)
 - [Amazon Alexa scientist Yang Liu named an ISCA Fellow](https://www.amazon.science/latest-news/amazon-alexa-scientist-yang-liu-named-an-isca-fellow)
 - [Graceful AI](https://www.amazon.science/latest-news/graceful-ai)
-- [Alexa & Friends features Nikko Ström, Alexa AI vice president and distinguished scientist](https://www.amazon.science/videos-webinars/alexa-friends-features-nikko-strom-alexa-ai-vice-president-and-distinguished-scientist)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
