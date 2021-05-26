@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [Ten university teams selected to participate in Alexa Prize TaskBot Challenge](https://www.amazon.science/academic-engagements/ten-university-teams-selected-to-participate-in-alexa-prize-taskbot-challenge)
 - [3 questions with Kathleen McKeown: Controlling model hallucinations in natural language generation](https://www.amazon.science/latest-news/3-questions-with-kathleen-mckeown-controlling-model-hallucinations-in-natural-language-generation)
 - [AWS releases code to help reduce bias in machine learning models](https://www.amazon.science/blog/aws-releases-code-to-help-reduce-bias-in-machine-learning-models)
 - [Five Carnegie Mellon students named Amazon graduate research fellows](https://www.amazon.science/academic-engagements/five-carnegie-mellon-students-named-amazon-graduate-research-fellows)
 - [Amazon wins best-paper award for protecting privacy of training data](https://www.amazon.science/blog/amazon-wins-best-paper-award-for-protecting-privacy-of-training-data)
-- [3 questions with Ryan Tibshirani: The science behind COVIDcast and pandemic tracking](https://www.amazon.science/latest-news/3-questions-with-ryan-tibshirani-the-science-behind-covidcast-and-pandemic-tracking)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
