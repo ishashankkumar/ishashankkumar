@@ -16,7 +16,7 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 - [Alexa & Friends features Ariya Rastrow, senior principal scientist, Alexa AI](https://www.amazon.science/videos-webinars/alexa-friends-features-ariya-rastrow-senior-principal-scientist-alexa-ai)
 - [Amazon at NAACL 2021: The return of symbolic semantics](https://www.amazon.science/blog/amazon-at-naacl-2021-the-return-of-symbolic-semantics)
 - [Alexa enters the “age of self”](https://www.amazon.science/blog/alexa-enters-the-age-of-self)
-- [The AWS Machine Learning Summit is today](https://www.amazon.science/latest-news/the-aws-machine-learning-summit-is-june-2)
+- [Hear from AWS Machine Learning Summit speakers](https://www.amazon.science/latest-news/the-aws-machine-learning-summit-is-june-2)
 - [3 questions with George Karypis: Making learning from data embedded in graphs easy and scalable](https://www.amazon.science/latest-news/3-questions-with-george-karypis-making-learning-from-data-embedded-in-graphs-easy-and-scalable)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
