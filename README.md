@@ -13,7 +13,7 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
-- [Amazon's 34 ICASSP papers touch on everything audio](https://www.amazon.science/blog/amazons-34-icassp-papers-touch-on-everything-audio)
+- [Amazon's 36 ICASSP papers touch on everything audio](https://www.amazon.science/blog/amazons-36-icassp-papers-touch-on-everything-audio)
 - [Alexa & Friends features Ariya Rastrow, senior principal scientist, Alexa AI](https://www.amazon.science/videos-webinars/alexa-friends-features-ariya-rastrow-senior-principal-scientist-alexa-ai)
 - [Amazon at NAACL 2021: The return of symbolic semantics](https://www.amazon.science/blog/amazon-at-naacl-2021-the-return-of-symbolic-semantics)
 - [Alexa enters the “age of self”](https://www.amazon.science/blog/alexa-enters-the-age-of-self)
