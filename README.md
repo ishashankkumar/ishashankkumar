@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [Voiceitt extends the voice revolution to people with nonstandard speech](https://www.amazon.science/latest-news/voiceitt-extends-the-voice-revolution-to-people-with-nonstandard-speech)
 - [The future of mobility-as-a-service](https://www.amazon.science/latest-news/amazon-zoox-robotaxi-the-future-of-mobility-as-a-service)
 - [Text normalization with only 3% as much training data](https://www.amazon.science/blog/text-normalization-with-only-3-as-much-training-data)
 - [Question answering as a "lingua franca" for transfer learning](https://www.amazon.science/blog/question-answering-as-a-lingua-franca-for-transfer-learning)
 - [U.S. National Science Foundation, Amazon seek submissions for third round of Fairness in AI grant projects](https://www.amazon.science/academic-engagements/u-s-national-science-foundation-amazon-seek-submissions-for-third-round-of-fairness-in-ai-grant-projects)
-- [The science behind the Halo Body feature](https://www.amazon.science/latest-news/the-science-behind-the-amazon-halo-band-body-feature)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
