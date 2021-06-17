@@ -13,7 +13,7 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
-- [How Amazon Chime's challenge-winning noise cancellation works](https://www.amazon.science/blog/how-amazon-chimes-challenge-winning-noise-cancellation-works)
+- [How Amazon Chime's noise cancellation works](https://www.amazon.science/blog/how-amazon-chimes-challenge-winning-noise-cancellation-works)
 - [Women in conversational AI virtual panel discussion](https://www.amazon.science/videos-webinars/women-in-conversational-ai-virtual-panel-discussion)
 - [Automatically evaluating question-answering models](https://www.amazon.science/blog/automatically-evaluating-question-answering-models)
 - [Amazon teams up with Columbia University for research showcase](https://www.amazon.science/academic-engagements/amazon-teams-up-with-columbia-university-for-research-showcase)
