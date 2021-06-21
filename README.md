@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [Michael J. Black elected to Germany’s National Academy of Sciences](https://www.amazon.science/latest-news/michael-j-black-elected-to-germanys-national-academy-of-sciences)
 - [Amazon at CVPR: Pietro Perona on computer vision's frontiers](https://www.amazon.science/blog/amazon-at-cvpr-pietro-perona-on-computer-visions-frontiers)
 - [How Amazon Chime's noise cancellation works](https://www.amazon.science/blog/how-amazon-chimes-challenge-winning-noise-cancellation-works)
 - [Women in conversational AI virtual panel discussion](https://www.amazon.science/videos-webinars/women-in-conversational-ai-virtual-panel-discussion)
 - [Automatically evaluating question-answering models](https://www.amazon.science/blog/automatically-evaluating-question-answering-models)
-- [Amazon teams up with Columbia University for research showcase](https://www.amazon.science/academic-engagements/amazon-teams-up-with-columbia-university-for-research-showcase)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
