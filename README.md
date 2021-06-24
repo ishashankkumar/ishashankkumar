@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [Seokhwan Kim and Alexandros Papangelis elected to the board of members for SIGDIAL](https://www.amazon.science/latest-news/seokhwan-kim-and-alexandros-papangelis-elected-to-the-board-of-members-for-sigdial)
 - [Using food images to find cooking recipes](https://www.amazon.science/blog/using-food-images-to-find-cooking-recipes)
 - [Privacy challenges in extreme gradient boosting](https://www.amazon.science/latest-news/privacy-challenges-in-extreme-gradient-boosting)
 - [3 questions with Özalp Özer: How to build trust in business relationships](https://www.amazon.science/latest-news/3-questions-with-ozalp-ozer-how-to-build-trust-in-business-relationships)
 - [Michael J. Black elected to Germany’s National Academy of Sciences](https://www.amazon.science/latest-news/michael-j-black-elected-to-germanys-national-academy-of-sciences)
-- [Amazon at CVPR: Pietro Perona on computer vision's frontiers](https://www.amazon.science/blog/amazon-at-cvpr-pietro-perona-on-computer-visions-frontiers)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
