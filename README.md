@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [The bridge between supply and demand](https://www.amazon.science/latest-news/amazon-delivery-experience-the-bridge-between-supply-and-demand)
 - [On demand: The 2021 AWS Machine Learning Summit](https://www.amazon.science/latest-news/on-demand-the-2021-aws-machine-learning-summit)
 - [Amazon, Berkeley release dataset of product images and metadata](https://www.amazon.science/blog/amazon-berkeley-release-dataset-of-product-images-and-metadata)
 - [Seokhwan Kim and Alexandros Papangelis elected to the board of members for SIGDIAL](https://www.amazon.science/latest-news/seokhwan-kim-and-alexandros-papangelis-elected-to-the-board-of-members-for-sigdial)
 - [Using food images to find cooking recipes](https://www.amazon.science/blog/using-food-images-to-find-cooking-recipes)
-- [Privacy challenges in extreme gradient boosting](https://www.amazon.science/latest-news/privacy-challenges-in-extreme-gradient-boosting)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
