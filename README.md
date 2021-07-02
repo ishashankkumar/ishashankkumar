@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [Controlling language generation models without training data](https://www.amazon.science/controlling-language-generation-models-without-training-data)
 - [Two new approaches to synthesizing speech with appropriate prosody](https://www.amazon.science/blog/two-new-approaches-to-synthesizing-speech-with-appropriate-prosody)
 - [Amazon's scientific approach to meeting – and measuring – its climate goals](https://www.amazon.science/blog/amazons-scientific-approach-to-meeting-and-measuring-its-climate-goals)
 - [The bridge between supply and demand](https://www.amazon.science/latest-news/amazon-delivery-experience-the-bridge-between-supply-and-demand)
 - [On demand: The 2021 AWS Machine Learning Summit](https://www.amazon.science/latest-news/on-demand-the-2021-aws-machine-learning-summit)
-- [Amazon, Berkeley release dataset of product images and metadata](https://www.amazon.science/blog/amazon-berkeley-release-dataset-of-product-images-and-metadata)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
