@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [Third Conference on Truth and Trust Online open for submissions](https://www.amazon.science/blog/third-conference-on-truth-and-trust-online-open-for-submissions)
 - [Amazon at SIGIR: Toward more-inclusive AI](https://www.amazon.science/blog/amazon-at-sigir-toward-more-inclusive-ai)
 - [Amazon scientist lectures at a specialized AI summer school](https://www.amazon.science/latest-news/amazon-scientist-lectures-at-a-specialized-ai-summer-school)
 - [Schooling robots to behave like fish](https://www.amazon.science/research-awards/success-stories/swarm-robotics-radhika-nagpal-schooling-robots-to-behave-like-fish)
 - [The top stories of the first half of 2021](https://www.amazon.science/latest-news/the-top-stories-of-the-first-half-of-2021)
-- [Controlling language generation models without training data](https://www.amazon.science/latest-news/controlling-language-generation-models-without-training-data)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
