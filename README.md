@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [Alexa & Friends features Amazon Scholar Julia Hirschberg](https://www.amazon.science/videos-webinars/alexa-friends-features-amazon-scholar-julia-hirschberg)
 - [Amazon paper exposes biases in unreliable-news datasets](https://www.amazon.science/blog/amazon-paper-exposes-bias-in-unreliable-news-datasets)
 - [How AWS contributes to an earthquake safety system for the US West Coast](https://www.amazon.science/research-awards/success-stories/how-aws-contributes-to-an-earthquake-safety-information-system-for-the-us-west-coast)
 - [USC + Amazon Center on Secure and Trusted Machine Learning selects initial research projects](https://www.amazon.science/academic-engagements/usc-amazon-center-on-secure-and-trusted-machine-learning-selects-initial-research-projects)
 - [Searching video using natural-language descriptions](https://www.amazon.science/blog/searching-video-using-natural-language-descriptions)
-- [Third Conference on Truth and Trust Online open for submissions](https://www.amazon.science/blog/third-conference-on-truth-and-trust-online-open-for-submissions)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
