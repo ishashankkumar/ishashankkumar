@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [Amazon launches annual ML summer school in India](https://www.amazon.science/academic-engagements/amazon-launches-annual-ml-summer-school-in-india)
 - [Gérard Medioni named AAIA fellow](https://www.amazon.science/latest-news/gerard-medioni-named-aaia-fellow)
 - [Alexa Prize Socialbot Grand Challenge 4 finalists announced](https://www.amazon.science/academic-engagements/alexa-prize-socialbot-grand-challenge-4-finalists-announced)
 - [A conversation with James Whitfield, Amazon Visiting Academic, on quantum computing](https://www.amazon.science/working-at-amazon/a-conversation-with-james-whitfield-amazon-visiting-academic-on-quantum-computing)
 - [Alexa & Friends features Amazon Scholar Julia Hirschberg](https://www.amazon.science/videos-webinars/alexa-friends-features-amazon-scholar-julia-hirschberg)
-- [Amazon paper exposes biases in unreliable-news datasets](https://www.amazon.science/blog/amazon-paper-exposes-bias-in-unreliable-news-datasets)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
