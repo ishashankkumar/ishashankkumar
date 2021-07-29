@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [Amazon at ACL: How to teach machines to reason](https://www.amazon.science/blog/amazon-at-acl-how-to-teach-machines-to-reason)
 - [An Amazon scientist offers his time in exchange for donations to COVID charities in India](https://www.amazon.science/working-at-amazon/an-amazon-scientist-offers-his-time-in-exchange-for-donations-to-covid-charities-in-india)
 - [3 questions with Huseyin Topaloglu: A customer-centric approach to assortment optimization](https://www.amazon.science/latest-news/3-questions-with-huseyin-topaloglu-a-customer-centric-approach-to-assortment-optimization)
 - [Automatically identifying scene boundaries in movies and TV shows](https://www.amazon.science/blog/automatically-identifying-scene-boundaries-in-movies-and-tv-shows)
 - [Amazon at ICML: Industry and academia meet at Expo Day](https://www.amazon.science/blog/amazon-at-icml-industry-and-academia-meet-at-expo-day)
-- [New take on hierarchical time series forecasting improves accuracy](https://www.amazon.science/blog/new-take-on-hierarchical-time-series-forecasting-improves-accuracy)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
