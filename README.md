@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [USC + Amazon Center on Secure and Trusted Machine Learning selects two PhD fellows](https://www.amazon.science/academic-engagements/usc-amazon-center-on-secure-and-trusted-machine-learning-selects-two-phd-fellows)
 - [Eugene Yan and the art of writing about science](https://www.amazon.science/working-at-amazon/eugene-yan-and-the-art-of-writing-about-science)
 - [More efficient and reliable retrieval of distributed data](https://www.amazon.science/blog/more-efficient-and-reliable-retrieval-of-distributed-data)
 - [Amazon at ACL: How to teach machines to reason](https://www.amazon.science/blog/amazon-at-acl-how-to-teach-machines-to-reason)
 - [An Amazon scientist offers his time in exchange for donations to COVID charities in India](https://www.amazon.science/working-at-amazon/an-amazon-scientist-offers-his-time-in-exchange-for-donations-to-covid-charities-in-india)
-- [3 questions with Huseyin Topaloglu: A customer-centric approach to assortment optimization](https://www.amazon.science/latest-news/3-questions-with-huseyin-topaloglu-a-customer-centric-approach-to-assortment-optimization)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
