@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [Amazon announces new conversational-modeling challenge](https://www.amazon.science/blog/amazon-announces-new-conversational-modeling-challenge)
 - [Ensuring that new language-processing models don't backslide](https://www.amazon.science/blog/ensuring-that-new-language-processing-models-dont-backslide)
 - [USC + Amazon Center on Secure and Trusted Machine Learning selects two PhD fellows](https://www.amazon.science/academic-engagements/usc-amazon-center-on-secure-and-trusted-machine-learning-selects-two-phd-fellows)
 - [Eugene Yan and the art of writing about science](https://www.amazon.science/working-at-amazon/eugene-yan-and-the-art-of-writing-about-science)
 - [More efficient and reliable retrieval of distributed data](https://www.amazon.science/blog/more-efficient-and-reliable-retrieval-of-distributed-data)
-- [Amazon at ACL: How to teach machines to reason](https://www.amazon.science/blog/amazon-at-acl-how-to-teach-machines-to-reason)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
