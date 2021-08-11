@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [3 questions with Jeremy Holleman: How to design and develop ultra-low-power AI processors](https://www.amazon.science/latest-news/3-questions-with-jeremy-holleman-how-to-design-and-develop-ultra-low-power-ai-processors)
 - [Amazon Robotics names initial fellowship program recipients](https://www.amazon.science/academic-engagements/amazon-robotics-names-initial-fellowship-program-recipients)
 - [The history of Amazon’s forecasting algorithm](https://www.amazon.science/latest-news/the-history-of-amazons-forecasting-algorithm)
 - [Winning Last Mile Challenge team addresses problem of combining mathematical routes with driver knowledge](https://www.amazon.science/academic-engagements/winning-last-mile-challenge-team-addresses-problem-of-combining-mathematical-routes-with-driver-knowledge)
 - [Amazon announces new conversational-modeling challenge](https://www.amazon.science/blog/amazon-announces-new-conversational-modeling-challenge)
-- [Ensuring that new language-processing models don't backslide](https://www.amazon.science/blog/ensuring-that-new-language-processing-models-dont-backslide)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
