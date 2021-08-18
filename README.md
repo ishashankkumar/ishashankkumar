@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [Determining causality in correlated time series](https://www.amazon.science/blog/determining-causality-in-correlated-time-series)
 - [Alexa & Friends features Yang Liu, principal applied scientist, Alexa AI](https://www.amazon.science/videos-webinars/alexa-friends-features-yang-liu-amazon-principal-applied-scientist-alexa-ai)
 - [What makes a great scientist?](https://www.amazon.science/working-at-amazon/what-makes-a-great-scientist)
 - [Alexa Prize faculty advisors provide insights on the competition](https://www.amazon.science/academic-engagements/alexa-prize-faculty-advisors-provide-insights-on-the-competition)
 - [Czech Technical University team wins Alexa Prize SocialBot Grand Challenge 4](https://www.amazon.science/academic-engagements/czech-technical-university-team-wins-alexa-prize-socialbot-grand-challenge-4)
-- [KDD: Graph neural networks and self-supervised learning](https://www.amazon.science/blog/kdd-graph-neural-networks-and-self-supervised-learning)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
