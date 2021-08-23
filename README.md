@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [Alexandre Bayen is a driving force behind mixed-autonomy traffic](https://www.amazon.science/research-awards/success-stories/alexandre-bayen-is-a-driving-force-behind-mixed-autonomy-traffic)
 - [How to train large graph neural networks efficiently](https://www.amazon.science/blog/how-to-train-large-graph-neural-networks-efficiently)
 - [‘Think a lot, and think big’](https://www.amazon.science/working-at-amazon/think-a-lot-and-think-big)
 - [Determining causality in correlated time series](https://www.amazon.science/blog/determining-causality-in-correlated-time-series)
 - [Alexa & Friends features Yang Liu, principal applied scientist, Alexa AI](https://www.amazon.science/videos-webinars/alexa-friends-features-yang-liu-amazon-principal-applied-scientist-alexa-ai)
-- [What makes a great scientist?](https://www.amazon.science/working-at-amazon/what-makes-a-great-scientist)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
