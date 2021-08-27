@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [How to build highly expressive speech models](https://www.amazon.science/blog/how-to-build-highly-expressive-speech-models)
 - [Applying PECOS to product retrieval and text autocompletion](https://www.amazon.science/blog/applying-pecos-to-product-retrieval-and-text-autocompletion)
 - [The range of AWS's speech research is on display at Interspeech](https://www.amazon.science/blog/the-range-of-awss-speech-research-is-on-display-at-interspeech)
 - [Allie K. Miller wants to help others understand artificial intelligence](https://www.amazon.science/working-at-amazon/allie-k-miller-wants-to-help-others-understand-artificial-intelligence)
 - [Alexandre Bayen is a driving force behind mixed-autonomy traffic](https://www.amazon.science/research-awards/success-stories/alexandre-bayen-is-a-driving-force-behind-mixed-autonomy-traffic)
-- [How to train large graph neural networks efficiently](https://www.amazon.science/blog/how-to-train-large-graph-neural-networks-efficiently)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
