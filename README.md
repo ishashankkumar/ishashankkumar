@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [Using warped language models to correct speech recognition errors](https://www.amazon.science/blog/using-warped-language-models-to-correct-speech-recognition-errors)
 - [Spring 2021 Amazon Research Awards recipients announced](https://www.amazon.science/research-awards/program-updates/spring-2021-amazon-research-awards-recipients-announced)
 - [How to make on-device speech recognition practical](https://www.amazon.science/blog/how-to-make-on-device-speech-recognition-practical)
 - [The science behind Amazon Prime](https://www.amazon.science/latest-news/the-science-behind-amazon-prime)
 - [BMW Quantum Computing Challenge seeks new solutions to automotive hurdles](https://www.amazon.science/latest-news/bmw-quantum-computing-challenge-seeks-new-solutions-to-automotive-hurdles)
-- [Improved Halo Body technology allows customers to take scans in tighter spaces](https://www.amazon.science/latest-news/improved-halo-body-technology-allows-customers-to-take-scans-in-tighter-spaces)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
