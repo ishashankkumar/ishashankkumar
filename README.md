@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [Estimating causality from data: How one Amazon intern used data to make an impact](https://www.amazon.science/working-at-amazon/estimating-causality-from-data-how-one-amazon-intern-used-data-to-make-an-impact)
 - [“Alexa, how do you know everything?”](https://www.amazon.science/working-at-amazon/alexa-how-do-you-know-everything)
 - [Using synthesized speech to train speech recognizers](https://www.amazon.science/blog/using-synthesized-speech-to-train-speech-recognizers)
 - [Using warped language models to correct speech recognition errors](https://www.amazon.science/blog/using-warped-language-models-to-correct-speech-recognition-errors)
 - [Spring 2021 Amazon Research Awards recipients announced](https://www.amazon.science/research-awards/program-updates/spring-2021-amazon-research-awards-recipients-announced)
-- [How to make on-device speech recognition practical](https://www.amazon.science/blog/how-to-make-on-device-speech-recognition-practical)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
