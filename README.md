@@ -13,7 +13,7 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
-- [Alexa & Friends features Jasha Droppo, Amazon Alexa AI senior principal applied scientist](https://www.amazon.science/videos-webinars/alexa-friends-features-jasha-droppo-amazon-alexa-ai-senior-principal-applied-scientist)
+- [Alexa & Friends features Jasha Droppo, senior principal applied scientist, Alexa AI](https://www.amazon.science/videos-webinars/alexa-friends-features-jasha-droppo-amazon-alexa-ai-senior-principal-applied-scientist)
 - [Using learning-to-rank to precisely locate where to deliver packages](https://www.amazon.science/blog/using-learning-to-rank-to-precisely-locate-where-to-deliver-packages)
 - [Estimating causality from data: How one Amazon intern used data to make an impact](https://www.amazon.science/working-at-amazon/estimating-causality-from-data-how-one-amazon-intern-used-data-to-make-an-impact)
 - [“Alexa, how do you know everything?”](https://www.amazon.science/working-at-amazon/alexa-how-do-you-know-everything)
