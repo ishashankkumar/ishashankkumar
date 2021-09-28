@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [The science behind visual ID](https://www.amazon.science/blog/the-science-behind-visual-id)
+- [How Amazon is using self-service to democratize AI](https://www.amazon.science/blog/how-amazon-is-using-self-service-to-democratize-ai)
 - [Data on correlated products and sellers helps improve demand forecasting](https://www.amazon.science/blog/data-on-correlated-products-and-sellers-helps-improve-demand-forecasting)
 - [Amazon at RecSys: Evaluation, bias, and algorithms](https://www.amazon.science/blog/amazon-at-recsys-evaluation-bias-and-algorithms)
 - [Alexa & Friends features Jasha Droppo, Alexa AI senior principal applied scientist](https://www.amazon.science/videos-webinars/alexa-friends-features-jasha-droppo-senior-principal-applied-scientist-alexa-ai)
-- [Automated fact-checking using evidence from tables and text](https://www.amazon.science/blog/automated-fact-checking-using-evidence-from-tables-and-text)
-- [Creating sustainable, data-driven buildings](https://www.amazon.science/latest-news/creating-sustainable-data-driven-buildings)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
