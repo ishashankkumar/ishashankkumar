@@ -14,10 +14,10 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
 - [A more useful way to measure robotic localization error](https://www.amazon.science/blog/a-more-useful-way-to-measure-robotic-localization-error)
+- [Astro’s Intelligent Motion brings state-of-the-art navigation to the home](https://www.amazon.science/blog/astros-intelligent-motion-brings-state-of-the-art-navigation-to-the-home)
 - [The science behind visual ID](https://www.amazon.science/blog/the-science-behind-visual-id)
 - [How Amazon is using self-service to democratize AI](https://www.amazon.science/blog/how-amazon-is-using-self-service-to-democratize-ai)
 - [Data on correlated products and sellers helps improve demand forecasting](https://www.amazon.science/blog/data-on-correlated-products-and-sellers-helps-improve-demand-forecasting)
-- [Amazon at RecSys: Evaluation, bias, and algorithms](https://www.amazon.science/blog/amazon-at-recsys-evaluation-bias-and-algorithms)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
