@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [Amazon launches new Alexa Prize SimBot Challenge](https://www.amazon.science/academic-engagements/amazon-launches-new-alexa-prize-simbot-challenge)
+- [New dataset for training household robots to follow human commands](https://www.amazon.science/blog/new-dataset-for-training-household-robots-to-follow-human-commands)
 - [Amazon and MIT establish Science Hub](https://www.amazon.science/academic-engagements/amazon-and-mit-establish-science-hub)
 - [The evolution of Amazon’s inventory planning system](https://www.amazon.science/latest-news/the-evolution-of-amazons-inventory-planning-system)
 - [Five-year Clarity Challenge to help improve hearing aids](https://www.amazon.science/blog/five-year-clarity-challenge-to-help-improve-hearing-aids)
-- [A more useful way to measure robotic localization error](https://www.amazon.science/blog/a-more-useful-way-to-measure-robotic-localization-error)
-- [Astro’s Intelligent Motion brings state-of-the-art navigation to the home](https://www.amazon.science/blog/astros-intelligent-motion-brings-state-of-the-art-navigation-to-the-home)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
