@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [Philip Stier is cracking cloud-based climate conundrums](https://www.amazon.science/research-awards/success-stories/philip-stier-is-cracking-cloud-based-climate-conundrums)
 - [Amazon launches new Alexa Prize SimBot Challenge](https://www.amazon.science/academic-engagements/amazon-launches-new-alexa-prize-simbot-challenge)
 - [New dataset for training household robots to follow human commands](https://www.amazon.science/blog/new-dataset-for-training-household-robots-to-follow-human-commands)
 - [Amazon and MIT establish Science Hub](https://www.amazon.science/academic-engagements/amazon-and-mit-establish-science-hub)
 - [The evolution of Amazon’s inventory planning system](https://www.amazon.science/latest-news/the-evolution-of-amazons-inventory-planning-system)
-- [Five-year Clarity Challenge to help improve hearing aids](https://www.amazon.science/blog/five-year-clarity-challenge-to-help-improve-hearing-aids)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
