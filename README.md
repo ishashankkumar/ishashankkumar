@@ -13,7 +13,7 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
-- [How the second-gen Echo Buds got smaller and better](https://www.amazon.science/in-the-news/how-the-second-gen-echo-buds-got-smaller-and-better)
+- [How the second-gen Echo Buds got smaller and better](https://www.amazon.science/latest-news/how-the-second-gen-echo-buds-got-smaller-and-better)
 - [Amazon Robotics AI leaders believe now is a 'particularly good time' to explore careers in robotics](https://www.amazon.science/working-at-amazon/amazon-robotics-ai-leaders-believe-now-is-a-particularly-good-time-to-explore-careers-in-robotics)
 - [Amazon's first research scientist elected an INFORMS fellow](https://www.amazon.science/latest-news/amazons-first-research-scientist-elected-an-informs-fellow)
 - [Philip Stier is cracking cloud-based climate conundrums](https://www.amazon.science/research-awards/success-stories/philip-stier-is-cracking-cloud-based-climate-conundrums)
