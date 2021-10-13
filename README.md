@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [Helmut Katzgraber elected fellow of the American Physical Society](https://www.amazon.science/latest-news/helmut-katzgraber-elected-fellow-of-the-american-physical-society)
 - [3 questions with Seyed Sajjadi: How to utilize a video analytics platform to automate the process of learning](https://www.amazon.science/latest-news/3-questions-with-seyed-sajjadi-how-to-utilize-a-video-analytics-platform-to-automate-the-process-of-learning)
 - [Cristiana Lara's journey from a curious student to an Amazon research scientist](https://www.amazon.science/working-at-amazon/cristiana-laras-journey-from-a-curious-student-to-an-amazon-research-scientist)
 - [How the second-gen Echo Buds got smaller and better](https://www.amazon.science/latest-news/how-the-second-gen-echo-buds-got-smaller-and-better)
 - [Amazon Robotics AI leaders believe now is a 'particularly good time' to explore careers in robotics](https://www.amazon.science/working-at-amazon/amazon-robotics-ai-leaders-believe-now-is-a-particularly-good-time-to-explore-careers-in-robotics)
-- [Amazon's first research scientist elected an INFORMS fellow](https://www.amazon.science/latest-news/amazons-first-research-scientist-elected-an-informs-fellow)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
