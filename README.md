@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [Blanca Rodriguez: Computational simulation of the human heart](https://www.amazon.science/research-awards/success-stories/blanca-rodriguez-computational-simulation-of-the-human-heart)
 - [Gérard Medioni believes now is a 'golden age' for computer vision research](https://www.amazon.science/videos-webinars/gerard-medioni-believes-now-is-a-golden-age-for-computer-vision-research)
 - [Explicit control of GAN-generated synthetic images](https://www.amazon.science/blog/explicit-control-of-gan-generated-synthetic-images)
 - [Using supervised learning to train models for image clustering](https://www.amazon.science/blog/using-supervised-learning-to-train-models-for-image-clustering)
 - [Two Amazon-affiliated economists awarded Nobel Prize](https://www.amazon.science/latest-news/two-amazon-affiliated-economists-awarded-nobel-prize)
-- [Helmut Katzgraber elected fellow of the American Physical Society](https://www.amazon.science/latest-news/helmut-katzgraber-elected-fellow-of-the-american-physical-society)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
