@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [George Karypis and collaborator receive SC21 test of time award for 1998 graph partitioning paper](https://www.amazon.science/latest-news/george-karypis-and-collaborator-receive-sc21-test-of-time-award-for-1998-graph-partitioning-paper)
 - [Blanca Rodriguez: Computational simulation of the human heart](https://www.amazon.science/research-awards/success-stories/blanca-rodriguez-computational-simulation-of-the-human-heart)
 - [Gérard Medioni believes now is a 'golden age' for computer vision research](https://www.amazon.science/videos-webinars/gerard-medioni-believes-now-is-a-golden-age-for-computer-vision-research)
 - [Explicit control of GAN-generated synthetic images](https://www.amazon.science/blog/explicit-control-of-gan-generated-synthetic-images)
 - [Using supervised learning to train models for image clustering](https://www.amazon.science/blog/using-supervised-learning-to-train-models-for-image-clustering)
-- [Two Amazon-affiliated economists awarded Nobel Prize](https://www.amazon.science/latest-news/two-amazon-affiliated-economists-awarded-nobel-prize)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
