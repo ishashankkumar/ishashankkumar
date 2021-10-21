@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [Alexa & Friends features Pradeep Natarajan, Alexa AI principal applied scientist](https://www.amazon.science/videos-webinars/alexa-friends-features-pradeep-natarajan-alexa-ai-principal-applied-scientist)
 - [Bits into atoms, atoms into bits](https://www.amazon.science/research-awards/success-stories/bits-into-atoms-atoms-into-bits)
 - [3Q: Making silicon-vacancy centers practical for quantum networking](https://www.amazon.science/blog/3q-making-silicon-vacancy-centers-practical-for-quantum-networking)
 - [George Karypis and collaborator receive SC21 test of time award for 1998 graph partitioning paper](https://www.amazon.science/latest-news/george-karypis-and-collaborator-receive-sc21-test-of-time-award-for-1998-graph-partitioning-paper)
 - [Blanca Rodriguez: Computational simulation of the human heart](https://www.amazon.science/research-awards/success-stories/blanca-rodriguez-computational-simulation-of-the-human-heart)
-- [Gérard Medioni believes now is a 'golden age' for computer vision research](https://www.amazon.science/videos-webinars/gerard-medioni-believes-now-is-a-golden-age-for-computer-vision-research)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
