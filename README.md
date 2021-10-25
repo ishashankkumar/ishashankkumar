@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [Amazon SCOT announces 2021 INFORMS fellowship recipients](https://www.amazon.science/academic-engagements/amazon-scot-announces-2021-informs-fellowship-recipients)
 - [Amazon Scholar receives American Physical Society quantum computing honor](https://www.amazon.science/academics-at-amazon/amazon-scholar-receives-american-physical-society-quantum-computing-honor)
 - [Alexa & Friends features Pradeep Natarajan, Alexa AI principal applied scientist](https://www.amazon.science/videos-webinars/alexa-friends-features-pradeep-natarajan-alexa-ai-principal-applied-scientist)
 - [Bits into atoms, atoms into bits](https://www.amazon.science/research-awards/success-stories/bits-into-atoms-atoms-into-bits)
 - [3Q: Making silicon-vacancy centers practical for quantum networking](https://www.amazon.science/blog/3q-making-silicon-vacancy-centers-practical-for-quantum-networking)
-- [George Karypis and collaborator receive SC21 test of time award for 1998 graph partitioning paper](https://www.amazon.science/latest-news/george-karypis-and-collaborator-receive-sc21-test-of-time-award-for-1998-graph-partitioning-paper)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
