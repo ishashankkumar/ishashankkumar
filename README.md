@@ -13,7 +13,7 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
-- [Michael Wagner and co-author receive INFORMS award](https://www.amazon.science/latest-news/michael-wagner-and-co-author-receive-informs-award)
+- [Michael Wagner and co-author receive INFORMS award](https://www.amazon.science/academics-at-amazon/michael-wagner-and-co-author-receive-informs-award)
 - [Amazon's annual machine learning conference featured presentations from thought leaders within academia](https://www.amazon.science/videos-webinars/amazons-annual-machine-learning-conference-featured-presentations-from-thought-leaders-within-academia)
 - [Amazon SCOT announces 2021 INFORMS fellowship recipients](https://www.amazon.science/academic-engagements/amazon-scot-announces-2021-informs-fellowship-recipients)
 - [Amazon Scholar receives American Physical Society quantum computing honor](https://www.amazon.science/academics-at-amazon/amazon-scholar-receives-american-physical-society-quantum-computing-honor)
