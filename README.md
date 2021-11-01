@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [How a team of engineers helped bring Amazon’s Fire TV Stick 4K to life](https://www.amazon.science/latest-news/how-a-team-of-engineers-helped-bring-amazons-fire-tv-stick-4k-to-life)
 - [Amazon and UCLA establish Science Hub for Humanity and AI](https://www.amazon.science/academic-engagements/amazon-and-ucla-establish-science-hub-for-humanity-and-ai)
 - [Michael Wagner and co-author receive INFORMS award](https://www.amazon.science/academics-at-amazon/michael-wagner-and-co-author-receive-informs-award)
 - [Amazon's annual machine learning conference featured presentations from thought leaders within academia](https://www.amazon.science/videos-webinars/amazons-annual-machine-learning-conference-featured-presentations-from-thought-leaders-within-academia)
 - [Amazon SCOT announces 2021 INFORMS fellowship recipients](https://www.amazon.science/academic-engagements/amazon-scot-announces-2021-informs-fellowship-recipients)
-- [Amazon Scholar receives American Physical Society quantum computing honor](https://www.amazon.science/academics-at-amazon/amazon-scholar-receives-american-physical-society-quantum-computing-honor)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
