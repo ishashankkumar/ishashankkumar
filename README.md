@@ -14,7 +14,7 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
 - [Amazon’s 23 papers at EMNLP](https://www.amazon.science/blog/amazons-23-papers-at-emnlp)
-- [EMNLP: Mitigating bias and "getting closer to the user"](https://www.amazon.science/blog/emnlp-mitigating-bias-and-getting-closer-to-the-user)
+- [EMNLP: Mitigating bias and &quot;getting closer to the user&quot;](https://www.amazon.science/blog/emnlp-mitigating-bias-and-getting-closer-to-the-user)
 - [Foiling AI hackers with counterfactual reasoning](https://www.amazon.science/research-awards/success-stories/foiling-ai-hackers-with-counterfactual-reasoning)
 - [AWS team wins best-paper award for work on automated reasoning](https://www.amazon.science/blog/aws-team-wins-best-paper-award-for-work-on-automated-reasoning)
 - [Amazon SCOT employees participate in innovation and diversity panel discussion](https://www.amazon.science/videos-webinars/amazon-scot-employees-participate-in-innovation-and-diversity-panel-discussion)
