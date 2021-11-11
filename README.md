@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [New method improves knowledge-graph-based question answering](https://www.amazon.science/blog/new-method-improves-knowledge-graph-based-question-answering)
 - [How Andreia Pierce utilizes her science background in her AWS business role](https://www.amazon.science/working-at-amazon/how-andreia-pierce-utilizes-her-science-background-in-her-aws-business-role)
 - [The science of operations planning under uncertainty](https://www.amazon.science/latest-news/the-science-of-operations-planning-under-uncertainty)
 - [Adapting machine translation models to new genres](https://www.amazon.science/blog/adapting-machine-translation-models-to-new-genres)
 - [Amazon’s 23 papers at EMNLP](https://www.amazon.science/blog/amazons-23-papers-at-emnlp)
-- [EMNLP: Mitigating bias and &quot;getting closer to the user&quot;](https://www.amazon.science/blog/emnlp-mitigating-bias-and-getting-closer-to-the-user)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
