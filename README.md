@@ -16,7 +16,7 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 - [Amazon releases dataset to help detect counterfactual phrases](https://www.amazon.science/blog/amazon-releases-dataset-to-help-detect-counterfactual-phrases)
 - [New Alexa feature enables natural, multiparty interactions](https://www.amazon.science/blog/new-alexa-feature-enables-natural-multiparty-interactions)
 - [Özalp Özer receives INFORMS honorable mention](https://www.amazon.science/latest-news/ozalp-ozer-receives-informs-honorable-mention-for-paper-identifying-fundraising-campaign-drivers)
-- [Amazon Books editors announce selections for best 2021 general interest science books](https://www.amazon.science/latest-news/amazon-books-editors-announce-selections-for-best-2021-general-interest-science-books)
+- [Amazon Books editors reveal best 2021 general interest science books](https://www.amazon.science/latest-news/amazon-books-editors-announce-selections-for-best-2021-general-interest-science-books)
 - [How De’Aira Bryant found her path into robotics](https://www.amazon.science/working-at-amazon/how-deaira-bryant-found-her-path-into-robotics)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
