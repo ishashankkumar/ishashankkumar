@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [SURE summer program to promote diversity in STEM a great success](https://www.amazon.science/academic-engagements/sure-summer-program-to-promote-diversity-in-stem-a-great-success)
 - [Finding critical information during disasters](https://www.amazon.science/research-awards/success-stories/finding-critical-information-during-disasters)
 - [Amazon releases dataset to help detect counterfactual phrases](https://www.amazon.science/blog/amazon-releases-dataset-to-help-detect-counterfactual-phrases)
 - [New Alexa feature enables natural, multiparty interactions](https://www.amazon.science/blog/new-alexa-feature-enables-natural-multiparty-interactions)
 - [Özalp Özer receives INFORMS honorable mention](https://www.amazon.science/latest-news/ozalp-ozer-receives-informs-honorable-mention-for-paper-identifying-fundraising-campaign-drivers)
-- [Amazon Books editors reveal best 2021 general interest science books](https://www.amazon.science/latest-news/amazon-books-editors-announce-selections-for-best-2021-general-interest-science-books)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
