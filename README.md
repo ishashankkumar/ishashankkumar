@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [ASRU: Integrating speech recognition and language understanding](https://www.amazon.science/blog/asru-integrating-speech-recognition-and-language-understanding)
 - [Quantum scientists and academics discuss quantum computing](https://www.amazon.science/videos-webinars/amazon-quantum-scientists-and-academics-discuss-the-challenge-and-the-promise-of-quantum-computing)
 - [Amazon pushes the boundaries of extreme multilabel classification](https://www.amazon.science/blog/neurips-2021-amazon-pushes-the-boundaries-of-extreme-multilabel-classification)
 - [Learning in game-theoretical models](https://www.amazon.science/research-awards/success-stories/learning-in-game-theoretical-models)
 - [Using machine learning to reduce costs, increase accuracy, and improve access in healthcare](https://www.amazon.science/research-awards/success-stories/using-machine-learning-to-reduce-costs-increase-accuracy-and-improve-access-in-healthcare)
-- [Garegin Papoian’s quest to model an elusive class of proteins](https://www.amazon.science/research-awards/success-stories/garegin-papoians-quest-to-model-an-elusive-class-of-proteins)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
