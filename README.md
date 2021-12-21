@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [“Ambient intelligence&quot; will accelerate advances in general AI](https://www.amazon.science/blog/ambient-intelligence-will-accelerate-advancements-in-general-ai)
 - [Fiddler.ai CEO on the emerging category of explainable AI](https://www.amazon.science/latest-news/machine-learning-fairness-alexa-fund-fiddler-ai-ceo-krishna-gade-interview)
 - [ASRU: Integrating speech recognition and language understanding](https://www.amazon.science/blog/asru-integrating-speech-recognition-and-language-understanding)
 - [Quantum scientists and academics discuss quantum computing](https://www.amazon.science/videos-webinars/amazon-quantum-scientists-and-academics-discuss-the-challenge-and-the-promise-of-quantum-computing)
 - [Amazon pushes the boundaries of extreme multilabel classification](https://www.amazon.science/blog/neurips-2021-amazon-pushes-the-boundaries-of-extreme-multilabel-classification)
-- [Learning in game-theoretical models](https://www.amazon.science/research-awards/success-stories/learning-in-game-theoretical-models)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
