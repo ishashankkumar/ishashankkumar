@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [Gah-Yi Ban wins 2021 Best Operations Management Paper Award](https://www.amazon.science/latest-news/recognition-awards-gah-yi-ban-wins-2021-best-operations-management-paper)
 - [Reducing unnecessary clarification questions from voice agents](https://www.amazon.science/blog/reducing-unnecessary-clarification-questions-from-voice-agents)
 - [“Ambient intelligence&quot; will accelerate advances in general AI](https://www.amazon.science/blog/ambient-intelligence-will-accelerate-advancements-in-general-ai)
 - [Fiddler.ai CEO on the emerging category of explainable AI](https://www.amazon.science/latest-news/machine-learning-fairness-alexa-fund-fiddler-ai-ceo-krishna-gade-interview)
 - [ASRU: Integrating speech recognition and language understanding](https://www.amazon.science/blog/asru-integrating-speech-recognition-and-language-understanding)
-- [Quantum scientists and academics discuss quantum computing](https://www.amazon.science/videos-webinars/amazon-quantum-scientists-and-academics-discuss-the-challenge-and-the-promise-of-quantum-computing)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
