@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
-- [The past and future of empirical economics](https://www.amazon.science/latest-news/a-conversation-with-economics-nobelists-on-experimental-design)
+- [Using computer vision to weed out product catalogue errors](https://www.amazon.science/blog/using-computer-vision-to-weed-out-product-catalogue-errors)
+- [A conversation with economics Nobelists](https://www.amazon.science/latest-news/a-conversation-with-economics-nobelists-on-experimental-design)
 - [WACV: Transformers for video and contrastive learning](https://www.amazon.science/blog/wacv-transformer-models-for-video-and-contrastive-learning)
 - [Using NLU labels to improve an ASR rescoring model](https://www.amazon.science/blog/using-nlu-labels-to-improve-an-automatic-speech-recognition-rescoring-model)
 - [How deep learning is reducing Amazon’s packaging waste](https://www.amazon.science/latest-news/deep-learning-machine-learning-computer-vision-applications-reducing-amazon-package-waste)
-- [The 10 most read research papers of 2021](https://www.amazon.science/latest-news/the-10-most-read-research-papers-of-2021)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
