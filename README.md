@@ -13,7 +13,7 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
-- [The science behind the next-gen FORMULA 1 Car](https://www.amazon.science/latest-news/the-science-behind-the-next-gen-2022-F1-car)
+- [The science behind the next-gen FORMULA 1 car](https://www.amazon.science/latest-news/the-science-behind-the-next-gen-2022-F1-car)
 - [Using computer vision to weed out product catalogue errors](https://www.amazon.science/blog/using-computer-vision-to-weed-out-product-catalogue-errors)
 - [A conversation with economics Nobelists](https://www.amazon.science/latest-news/a-conversation-with-economics-nobelists-on-experimental-design)
 - [WACV: Transformers for video and contrastive learning](https://www.amazon.science/blog/wacv-transformer-models-for-video-and-contrastive-learning)
