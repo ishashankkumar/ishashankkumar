@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [How Prime Video updates its app for more than 8,000 device types](https://www.amazon.science/blog/how-prime-video-updates-its-app-for-more-than-8-000-device-types)
 - [How to build a successful career as a scientist at Amazon](https://www.amazon.science/working-at-amazon/how-to-build-a-successful-career-as-a-scientist-at-amazon)
 - [On-device speech processing makes Alexa faster, lower-bandwidth](https://www.amazon.science/blog/on-device-speech-processing-makes-alexa-faster-lower-bandwidth)
 - [How Alexa learned Arabic](https://www.amazon.science/latest-news/how-alexa-learned-arabic)
 - [Decisions, decisions: Lihong Li&#39;s Amazon Ads reinforcement learning research](https://www.amazon.science/working-at-amazon/amazon-advertising-lihong-li-using-reinforcement-learning-algorithms)
-- [Amazon’s DynamoDB — 10 years later](https://www.amazon.science/latest-news/amazons-dynamodb-10-years-later)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
