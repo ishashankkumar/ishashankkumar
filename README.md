@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [René Vidal wins Edward J. McCluskey Technical Achievement Award](https://www.amazon.science/latest-news/subspace-clustering-rene-vidal-2021-edward-j-mccluskey-technical-achievement-award)
 - [The engineering behind Alexa&#39;s contextual speech recognition](https://www.amazon.science/latest-news/the-engineering-behind-alexas-contextual-speech-recognition)
 - [How Amazon Music&#39;s recommender hits the right notes](https://www.amazon.science/latest-news/how-amazon-music-uses-recommendation-system-machine-learning)
 - [How Prime Video updates its app for more than 8,000 device types](https://www.amazon.science/blog/how-prime-video-updates-its-app-for-more-than-8-000-device-types)
 - [How to build a successful career as a scientist at Amazon](https://www.amazon.science/working-at-amazon/how-to-build-a-successful-career-as-a-scientist-at-amazon)
-- [On-device speech processing makes Alexa faster, lower-bandwidth](https://www.amazon.science/blog/on-device-speech-processing-makes-alexa-faster-lower-bandwidth)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
