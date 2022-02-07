@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [How Margarita Chli is using drones to go where people can’t](https://www.amazon.science/research-awards/success-stories/autonomous-mobile-robots-margarita-chli-drones)
 - [CAIT announces new fellowships, faculty research awards](https://www.amazon.science/academic-engagements/cait-announces-two-new-phd-student-fellowships-and-five-new-faculty-research-awards)
 - [Josh Miele: Amazon’s resident MacArthur Fellow](https://www.amazon.science/working-at-amazon/josh-miele-amazons-resident-macarthur-fellow)
 - [Alexa AI co-organizes special sessions at ICASSP, Interspeech](https://www.amazon.science/blog/alexa-ai-co-organizes-special-sessions-at-icassp-interspeech)
 - [René Vidal wins Edward J. McCluskey Technical Achievement Award](https://www.amazon.science/latest-news/subspace-clustering-rene-vidal-2021-edward-j-mccluskey-technical-achievement-award)
-- [The engineering behind Alexa&#39;s contextual speech recognition](https://www.amazon.science/latest-news/the-engineering-behind-alexas-contextual-speech-recognition)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
