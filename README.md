@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [Amazon Robotics, Hampton University team up to establish robotics program](https://www.amazon.science/academic-engagements/amazon-robotics-hampton-university-team-up-to-establish-robotics-program)
 - [Alexa Prize has a new home](https://www.amazon.science/alexa-prize/alexa-prize-has-a-new-home)
 - [Amazon Scholar Ranjit Jhala named ACM Fellow](https://www.amazon.science/latest-news/amazon-scholar-ranjit-jhala-chosen-as-acm-fellow-for-computer-science-contributions)
 - [Alexa AI team discusses NeurIPS workshop best paper award](https://www.amazon.science/latest-news/alexa-ai-team-discusses-neurips-workshop-best-paper-award)
 - [Automated reasoning&#39;s scientific frontiers](https://www.amazon.science/blog/automated-reasonings-scientific-frontiers)
-- [New UW-Amazon Science Hub launches](https://www.amazon.science/academic-engagements/new-uw-amazon-science-hub-launches)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
