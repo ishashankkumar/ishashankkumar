@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [Improving question-answering models that use data from tables](https://www.amazon.science/blog/improving-question-answering-models-that-use-data-from-tables)
 - [How chance encounters sparked a career in engineering and robotics](https://www.amazon.science/working-at-amazon/how-chance-encounters-sparked-a-career-in-engineering-and-robotics)
 - [George Michailidis: How to identify important changes in online networks](https://www.amazon.science/working-at-amazon/george-michailidis-anomaly-detection-machine-learning)
 - [What’s next for deep learning?](https://www.amazon.science/blog/whats-next-for-deep-learning)
 - [Finding — and preventing — vulnerabilities in machine learning models](https://www.amazon.science/research-awards/success-stories/explainable-machine-learning-bo-li)
-- [Using hyperboloids to improve product retrieval](https://www.amazon.science/blog/using-hyperboloids-to-improve-product-retrieval)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
