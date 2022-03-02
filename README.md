@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [Amazon VP Babak Parviz appointed to AAAS Board of Directors](https://www.amazon.science/latest-news/amazon-vp-babak-parviz-appointed-to-aaas-board-of-directors)
 - [How Haluk Demirkan is using machine learning to get devices to the right place at the right time](https://www.amazon.science/working-at-amazon/haluk-demirkan-sales-forecast-demand-planning)
 - [Improving question-answering models that use data from tables](https://www.amazon.science/blog/improving-question-answering-models-that-use-data-from-tables)
 - [How chance encounters sparked a career in engineering and robotics](https://www.amazon.science/working-at-amazon/how-chance-encounters-sparked-a-career-in-engineering-and-robotics)
 - [George Michailidis: How to identify important changes in online networks](https://www.amazon.science/working-at-amazon/george-michailidis-anomaly-detection-machine-learning)
-- [What’s next for deep learning?](https://www.amazon.science/blog/whats-next-for-deep-learning)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
