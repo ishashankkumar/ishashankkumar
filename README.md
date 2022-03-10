@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [25 years of QIP](https://www.amazon.science/blog/25-years-of-qip)
 - [Amazon and Virginia Tech launch AI and ML research initiative](https://www.amazon.science/academic-engagements/amazon-and-virginia-tech-launch-ai-and-ml-research-initiative)
 - [Amazon and Energy Dept. team up to change how we recycle plastic](https://www.amazon.science/blog/amazon-and-energy-dept-team-up-to-change-how-we-recycle-plastic)
 - [How Prime Video uses machine learning to ensure video quality](https://www.amazon.science/blog/how-prime-video-uses-machine-learning-to-ensure-video-quality)
 - [Using natural language processing to understand and identify risks](https://www.amazon.science/working-at-amazon/using-natural-language-processing-to-understand-and-identify-risks)
-- [Amazon VP Babak Parviz appointed to AAAS Board of Directors](https://www.amazon.science/latest-news/amazon-vp-babak-parviz-appointed-to-aaas-board-of-directors)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
