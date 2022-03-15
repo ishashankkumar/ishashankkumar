@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [Registration opens for Amazon re:MARS event](https://www.amazon.science/latest-news/registration-opens-for-amazon-re-mars-event)
 - [Real-world robotic-manipulation system](https://www.amazon.science/research-awards/success-stories/real-world-robotic-manipulation-system)
 - [Amazon Science celebrates Pi Day](https://www.amazon.science/latest-news/pi-day-2022)
 - [Bringing practical applications of quantum computing closer](https://www.amazon.science/blog/bringing-practical-applications-of-quantum-computing-closer)
 - [25 years of QIP](https://www.amazon.science/blog/25-years-of-qip)
-- [Amazon and Virginia Tech launch AI and ML research initiative](https://www.amazon.science/academic-engagements/amazon-and-virginia-tech-launch-ai-and-ml-research-initiative)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
