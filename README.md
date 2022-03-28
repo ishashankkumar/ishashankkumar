@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [Amazon to host StatML Oxford Imperial ML Workshop in Berlin office](https://www.amazon.science/latest-news/amazon-to-host-statml-oxford-imperial-ml-workshop-in-berlin-office)
 - [How AWS uses graph neural networks to meet customer needs](https://www.amazon.science/blog/how-aws-uses-graph-neural-networks-to-meet-customer-needs)
 - [Making DeepSpeed ZeRO run efficiently on more-affordable hardware](https://www.amazon.science/blog/making-deepspeed-zero-run-efficiently-on-more-affordable-hardware)
 - [Monitoring and rewarding honest bids to increase auction revenue](https://www.amazon.science/latest-news/monitoring-and-rewarding-honest-bids-to-increase-revenue-in-auctions)
 - [New Amazon graduate research fellows announced at Carnegie Mellon](https://www.amazon.science/academic-engagements/new-amazon-graduate-research-fellows-announced-at-carnegie-mellon)
-- [Huseyin Topaloglu receives Cornell endowed faculty chair](https://www.amazon.science/latest-news/amazon-scholar-huseyin-topaloglu-receives-endowed-faculty-chair-at-cornell)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
