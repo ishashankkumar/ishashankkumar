@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [Amazon launches new Postdoctoral Science Program](https://www.amazon.science/postdoctoral-science-program)
 - [Improving forecasting by learning quantile functions](https://www.amazon.science/blog/improving-forecasting-by-learning-quantile-functions)
 - [Edouard Belval: From AWS intern to research engineer](https://www.amazon.science/working-at-amazon/edouard-belval-from-aws-intern-to-research-engineer)
 - [Amazon to host StatML Oxford Imperial ML Workshop in Berlin office](https://www.amazon.science/latest-news/amazon-to-host-statml-oxford-imperial-ml-workshop-in-berlin-office)
 - [How AWS uses graph neural networks to meet customer needs](https://www.amazon.science/blog/how-aws-uses-graph-neural-networks-to-meet-customer-needs)
-- [Making DeepSpeed ZeRO run efficiently on more-affordable hardware](https://www.amazon.science/blog/making-deepspeed-zero-run-efficiently-on-more-affordable-hardware)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
