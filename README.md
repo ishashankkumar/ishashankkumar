@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [“Robin deals with a world where things are changing all around it”](https://www.amazon.science/latest-news/robin-deals-with-a-world-where-things-are-changing-all-around-it)
 - [Xiuli Chao appointed Ralph Disney Collegiate Professor at UM](https://www.amazon.science/latest-news/xiuli-zack-chao-appointed-ralph-l-disney-collegiate-professor-of-industrial-and-operations-engineering)
 - [Amazon Scholar contributes to best student paper award](https://www.amazon.science/latest-news/amazon-scholar-contributes-to-best-student-paper-award)
 - [Luciana Buriol’s quest for scientific joy](https://www.amazon.science/working-at-amazon/luciana-buriols-quest-for-scientific-joy)
 - [New method for &quot;editing&quot; fabricated chips enables more-efficient designs](https://www.amazon.science/blog/new-method-for-editing-fabricated-chips-enables-more-efficient-designs)
-- [At Amazon Robotics, simulation gains traction](https://www.amazon.science/latest-news/at-amazon-robotics-simulation-gains-traction)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
