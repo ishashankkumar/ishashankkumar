@@ -13,7 +13,7 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
-- [TheWebConf: Blurring the line between industry and academic research](https://www.amazon.science/blog/thewebconf-blurring-the-line-between-industry-and-academic-research)
+- [TheWebConf: Stable themes, new wrinkles](https://www.amazon.science/blog/thewebconf-blurring-the-line-between-industry-and-academic-research)
 - [Amazon releases 51-language dataset for language understanding](https://www.amazon.science/blog/amazon-releases-51-language-dataset-for-language-understanding)
 - [How does Astro localize itself in an ever-changing home?](https://www.amazon.science/blog/how-does-astro-localize-itself-in-an-ever-changing-home)
 - [“Robin deals with a world where things are changing all around it”](https://www.amazon.science/latest-news/robin-deals-with-a-world-where-things-are-changing-all-around-it)
