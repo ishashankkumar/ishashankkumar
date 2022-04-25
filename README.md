@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [How Zoox vehicles “find themselves” in an ever-changing world](https://www.amazon.science/latest-news/how-zoox-vehicles-find-themselves-in-an-ever-changing-world)
 - [TheWebConf: Stable themes, new wrinkles](https://www.amazon.science/blog/thewebconf-blurring-the-line-between-industry-and-academic-research)
 - [Amazon releases 51-language dataset for language understanding](https://www.amazon.science/blog/amazon-releases-51-language-dataset-for-language-understanding)
 - [How does Astro localize itself in an ever-changing home?](https://www.amazon.science/blog/how-does-astro-localize-itself-in-an-ever-changing-home)
 - [“Robin deals with a world where things are changing all around it”](https://www.amazon.science/latest-news/robin-deals-with-a-world-where-things-are-changing-all-around-it)
-- [Xiuli Chao appointed Ralph Disney Collegiate Professor at UM](https://www.amazon.science/latest-news/xiuli-zack-chao-appointed-ralph-l-disney-collegiate-professor-of-industrial-and-operations-engineering)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
