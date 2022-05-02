@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [&quot;An accidental project born out of our need to innovate”](https://www.amazon.science/working-at-amazon/an-accidental-project-born-out-of-our-need-to-innovate)
 - [Improving unsupervised sentence-pair comparison](https://www.amazon.science/blog/improving-unsupervised-sentence-pair-comparison)
 - [Advances in trustworthy machine learning at Alexa AI](https://www.amazon.science/blog/advances-in-trustworthy-machine-learning-at-alexa-ai)
 - [Registration remains open for June Amazon re:MARS event](https://www.amazon.science/latest-news/registration-remains-open-for-june-amazon-re-mars-event)
 - [Amazon at ICLR: Graphs, time series, and more](https://www.amazon.science/blog/amazon-at-iclr-graphs-time-series-and-more)
-- [How Zoox vehicles “find themselves” in an ever-changing world](https://www.amazon.science/latest-news/how-zoox-vehicles-find-themselves-in-an-ever-changing-world)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
