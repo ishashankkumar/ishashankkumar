@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [A quick guide to Amazon’s 50-plus ICASSP papers](https://www.amazon.science/blog/a-quick-guide-to-amazons-50-plus-icassp-papers)
 - [Amazon scientist Sergey Menis contributes to development of vaccine approach against HIV](https://www.amazon.science/working-at-amazon/amazon-scientist-sergey-menis-contributes-to-development-of-vaccine-approach-against-hiv)
 - [More-efficient caching for product retrieval](https://www.amazon.science/blog/more-efficient-caching-for-product-retrieval)
 - [Amazon and UCLA announce recipients of gift awards, graduate fellowships](https://www.amazon.science/academic-engagements/amazon-and-ucla-announce-recipients-of-gift-awards-graduate-fellowships)
 - [The science behind ultrasonic motion sensing for Echo](https://www.amazon.science/blog/the-science-behind-ultrasonic-motion-sensing-for-echo)
-- [Ankan Bansal’s long journey into the world of computer vision](https://www.amazon.science/working-at-amazon/ankan-bansals-long-journey-into-the-world-of-computer-vision)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
