@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [Speeding database queries by rewriting redundancies](https://www.amazon.science/blog/speeding-database-queries-by-rewriting-redundancies)
 - [Amazon Redshift: Ten years of continuous reinvention](https://www.amazon.science/latest-news/amazon-redshift-ten-years-of-continuous-reinvention)
 - [Amazon Text-to-Speech group&#39;s research at ICASSP 2022](https://www.amazon.science/blog/amazon-text-to-speech-groups-research-at-icassp-2022)
 - [New textbook focuses on making better decisions in business and beyond](https://www.amazon.science/latest-news/matt-taddy-business-analytics-data-science-interview)
 - [Alexa’s speech recognition research at ICASSP 2022](https://www.amazon.science/blog/alexas-speech-recognition-research-at-icassp-2022)
-- [Swami Sivasubramanian named to National AI Advisory Committee](https://www.amazon.science/latest-news/swami-sivasubramanian-named-to-national-ai-advisory-committee)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
