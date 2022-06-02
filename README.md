@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [Richard Zhang wins 2022 CHCCS Achievement Award](https://www.amazon.science/latest-news/richard-zhang-wins-2022-canadian-human-computer-communications-society-achievement-award)
 - [RescoreBERT: Using BERT models to improve ASR rescoring](https://www.amazon.science/blog/rescorebert-using-bert-models-to-improve-asr-rescoring)
 - [AWS contributes novel causal machine learning algorithms to DoWhy](https://www.amazon.science/blog/aws-contributes-novel-causal-machine-learning-algorithms-to-dowhy)
 - [ACL: What comes next for natural-language processing?](https://www.amazon.science/blog/acl-what-comes-next-for-natural-language-processing)
 - [Amazon and Max Planck Society launch Science Hub](https://www.amazon.science/academic-engagements/amazon-and-max-planck-society-launch-science-hub)
-- [Paper on translating images into maps wins ICRA best-paper award](https://www.amazon.science/blog/translating-images-into-birds-eye-view-maps)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
