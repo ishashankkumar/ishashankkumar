@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [Simplifying BERT-based models to increase efficiency, capacity](https://www.amazon.science/blog/simplifying-bert-based-models-to-increase-efficiency-capacity)
 - [‘The next frontier in robotics’](https://www.amazon.science/latest-news/the-next-frontier-in-robotics)
 - [Compressing BART models for resource-constrained operation](https://www.amazon.science/blog/compressing-bart-models-for-resource-constrained-operation)
 - [Amazon Research Awards issues spring 2022 call for proposals](https://www.amazon.science/research-awards/program-updates/amazon-research-awards-issues-spring-2022-call-for-proposals)
 - [Richard Zhang wins 2022 CHCCS Achievement Award](https://www.amazon.science/latest-news/richard-zhang-wins-2022-canadian-human-computer-communications-society-achievement-award)
-- [RescoreBERT: Using BERT models to improve ASR rescoring](https://www.amazon.science/blog/rescorebert-using-bert-models-to-improve-asr-rescoring)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
