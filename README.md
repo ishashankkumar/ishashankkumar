@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [Alexa AI’s natural-language-understanding papers at ICASSP 2022](https://www.amazon.science/blog/alexa-ais-natural-language-understanding-papers-at-icassp-2022)
 - [From petroleum engineering to machine learning](https://www.amazon.science/working-at-amazon/from-petroleum-engineering-to-machine-learning)
 - [Simplifying BERT-based models to increase efficiency, capacity](https://www.amazon.science/blog/simplifying-bert-based-models-to-increase-efficiency-capacity)
 - [‘The next frontier in robotics’](https://www.amazon.science/latest-news/the-next-frontier-in-robotics)
 - [Compressing BART models for resource-constrained operation](https://www.amazon.science/blog/compressing-bart-models-for-resource-constrained-operation)
-- [Amazon Research Awards issues spring 2022 call for proposals](https://www.amazon.science/research-awards/program-updates/amazon-research-awards-issues-spring-2022-call-for-proposals)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
