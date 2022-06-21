@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [Olga Moskvyak’s journey into the world of science](https://www.amazon.science/working-at-amazon/olga-moskvyaks-journey-into-the-world-of-science)
 - [Anton van den Hengel’s journey from intellectual property law to computer vision pioneer](https://www.amazon.science/working-at-amazon/anton-van-den-hengels-journey-from-intellectual-property-law-to-computer-vision-pioneer)
 - [Calculating the differential cost of code changes](https://www.amazon.science/blog/calculating-the-differential-cost-of-code-changes)
 - [CVPR: Understanding images means understanding the world](https://www.amazon.science/blog/cvpr-understanding-images-means-understanding-the-world)
 - [Amazon announces picks for best science books of 2022 — so far](https://www.amazon.science/latest-news/amazon-announces-picks-for-best-science-books-of-2022-so-far)
-- [Three top performers emerge in inaugural Alexa Prize TaskBot Challenge](https://www.amazon.science/alexa-prize/three-top-performers-emerge-in-inaugural-alexa-prize-taskbot-challenge)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
