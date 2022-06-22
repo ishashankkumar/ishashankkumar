@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [Alexa&#39;s head scientist on conversational exploration, ambient AI](https://www.amazon.science/blog/alexas-head-scientist-on-conversational-exploration-ambient-ai)
 - [Prime Video&#39;s work on 3-D scene reconstruction, image representation](https://www.amazon.science/blog/prime-videos-work-on-3-d-scene-reconstruction-image-representation)
 - [Olga Moskvyak’s journey into the world of science](https://www.amazon.science/working-at-amazon/olga-moskvyaks-journey-into-the-world-of-science)
 - [Anton van den Hengel’s journey from intellectual property law to computer vision pioneer](https://www.amazon.science/working-at-amazon/anton-van-den-hengels-journey-from-intellectual-property-law-to-computer-vision-pioneer)
 - [Calculating the differential cost of code changes](https://www.amazon.science/blog/calculating-the-differential-cost-of-code-changes)
-- [CVPR: Understanding images means understanding the world](https://www.amazon.science/blog/cvpr-understanding-images-means-understanding-the-world)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
