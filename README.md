@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [How a passion for reinforcement learning guided Alexander Long’s trajectory](https://www.amazon.science/working-at-amazon/how-a-passion-for-reinforcement-learning-guided-alexander-longs-trajectory)
 - [New workshop to help bring causal reasoning to recommendation systems](https://www.amazon.science/blog/new-workshop-to-help-bring-causal-reasoning-to-recommendation-systems)
 - [Former Amazon intern Karsten Roth wins EMVA young professional award](https://www.amazon.science/latest-news/former-amazon-intern-karsten-roth-wins-emva-young-professional-award)
 - [Antia Lamas-Linares’s path into the world of quantum](https://www.amazon.science/working-at-amazon/antia-lamas-linaress-aws-quantum-networking)
 - [Alexa&#39;s head scientist on conversational exploration, ambient AI](https://www.amazon.science/blog/alexas-head-scientist-on-conversational-exploration-ambient-ai)
-- [Prime Video&#39;s work on 3-D scene reconstruction, image representation](https://www.amazon.science/blog/prime-videos-work-on-3-d-scene-reconstruction-image-representation)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
