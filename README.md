@@ -13,7 +13,7 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
-- [Alexa Prize announces $1 million SocialBot Grand Challenge 5](https://www.amazon.science/alexa-prize/socialbot-grand-challenge-2022)
+- [Alexa Prize announces $1 million SocialBot Grand Challenge 5](https://www.amazon.science/alexa-prize/socialbot-grand-challenge/2022)
 - [Bringing the power of deep learning to data in tables](https://www.amazon.science/blog/bringing-the-power-of-deep-learning-to-data-in-tables)
 - [Near-linear scaling of gigantic-model training on AWS](https://www.amazon.science/blog/near-linear-scaling-of-gigantic-model-training-on-aws)
 - [A little public data makes privacy-preserving AI models more accurate](https://www.amazon.science/blog/a-little-public-data-makes-privacy-preserving-ai-models-more-accurate)
