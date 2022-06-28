@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [Bringing the power of deep learning to data in tables](https://www.amazon.science/blog/bringing-the-power-of-deep-learning-to-data-in-tables)
 - [Near-linear scaling of gigantic-model training on AWS](https://www.amazon.science/blog/near-linear-scaling-of-gigantic-model-training-on-aws)
 - [A little public data makes privacy-preserving AI models more accurate](https://www.amazon.science/blog/a-little-public-data-makes-privacy-preserving-ai-models-more-accurate)
 - [How a passion for reinforcement learning guided Alexander Long’s trajectory](https://www.amazon.science/working-at-amazon/how-a-passion-for-reinforcement-learning-guided-alexander-longs-trajectory)
 - [New workshop to help bring causal reasoning to recommendation systems](https://www.amazon.science/blog/new-workshop-to-help-bring-causal-reasoning-to-recommendation-systems)
-- [Former Amazon intern Karsten Roth wins EMVA young professional award](https://www.amazon.science/latest-news/former-amazon-intern-karsten-roth-wins-emva-young-professional-award)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
