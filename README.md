@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [NAACL: Industry track offers reality checks, new directions](https://www.amazon.science/blog/naacl-industry-track-offers-reality-checks-new-directions)
 - [Improving “entity linking” between texts and knowledge bases](https://www.amazon.science/blog/improving-entity-linking-between-texts-and-knowledge-bases)
 - [Anwar Walid receives 2022 IEEE INFOCOM Test of Time Paper Award](https://www.amazon.science/latest-news/anwar-walid-receives-2022-ieee-infocom-test-of-time-paper-award)
 - [A quick guide to Amazon’s 45-plus NAACL papers](https://www.amazon.science/blog/a-quick-guide-to-amazons-45-plus-naacl-papers)
 - [Second annual Machine Learning Summer School launches in India](https://www.amazon.science/academic-engagements/second-annual-ml-summer-school-amazon-india)
-- [My experience at Amazon while teaching at Stanford](https://www.amazon.science/working-at-amazon/my-experience-at-amazon-while-teaching-at-stanford)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
