@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [Knowledge distillation for better convergence in multitask learning](https://www.amazon.science/blog/knowledge-distillation-for-better-convergence-in-multitask-learning)
 - [Machine Learning University expands with MLU Explains](https://www.amazon.science/latest-news/amazon-machine-learning-university-new-courses-mlu-explains)
 - [How events like Prime Day helped Amazon navigate the pandemic](https://www.amazon.science/latest-news/how-peak-events-like-prime-day-helped-amazon-navigate-the-pandemic)
 - [NAACL: Industry track offers reality checks, new directions](https://www.amazon.science/blog/naacl-industry-track-offers-reality-checks-new-directions)
 - [Improving “entity linking” between texts and knowledge bases](https://www.amazon.science/blog/improving-entity-linking-between-texts-and-knowledge-bases)
-- [Anwar Walid receives 2022 IEEE INFOCOM Test of Time Paper Award](https://www.amazon.science/latest-news/anwar-walid-receives-2022-ieee-infocom-test-of-time-paper-award)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
