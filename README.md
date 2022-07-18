@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [74 Amazon Research Awards recipients announced](https://www.amazon.science/research-awards/program-updates/74-amazon-research-awards-recipients-announced)
 - [Filtering out &quot;forbidden&quot; documents during information retrieval](https://www.amazon.science/blog/filtering-out-forbidden-documents-during-information-retrieval)
 - [Amazon scientists Mike Hicks and René Vidal honored](https://www.amazon.science/latest-news/amazon-scientists-mike-hicks-and-rene-vidal-honored)
 - [Why ambient computing needs self-learning](https://www.amazon.science/blog/why-ambient-computing-needs-self-learning)
 - [Joris Kinable wins IISE Transactions 2022 Best Application Award](https://www.amazon.science/latest-news/amazon-scientist-joris-kinable-wins-iise-transactions-2022-best-application-award)
-- [Amazon and MIT announce Science Hub gift project awards](https://www.amazon.science/academic-engagements/amazon-and-mit-announce-science-hub-gift-project-awards)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
