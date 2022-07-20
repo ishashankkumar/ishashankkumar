@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [&quot;Among all sources of information, visual information may be the most interesting&quot;](https://www.amazon.science/working-at-amazon/amazon-computer-vision-intern-to-applied-scientist-violetta-shevchenko)
 - [New method identifies the root causes of statistical outliers](https://www.amazon.science/blog/new-method-identifies-the-root-causes-of-statistical-outliers)
 - [74 Amazon Research Awards recipients announced](https://www.amazon.science/research-awards/program-updates/74-amazon-research-awards-recipients-announced)
 - [Filtering out &quot;forbidden&quot; documents during information retrieval](https://www.amazon.science/blog/filtering-out-forbidden-documents-during-information-retrieval)
 - [Amazon scientists Mike Hicks and René Vidal honored](https://www.amazon.science/latest-news/amazon-scientists-mike-hicks-and-rene-vidal-honored)
-- [Why ambient computing needs self-learning](https://www.amazon.science/blog/why-ambient-computing-needs-self-learning)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
