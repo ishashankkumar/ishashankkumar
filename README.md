@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [Honorable mention to Amazon researchers for ICML test-of-time award](https://www.amazon.science/blog/honorable-mention-to-amazon-researchers-for-icml-test-of-time-award)
 - [ICML: Where causality meets machine learning](https://www.amazon.science/blog/icml-where-causality-meets-machine-learning)
 - [&quot;Among all sources of information, visual information may be the most interesting&quot;](https://www.amazon.science/working-at-amazon/amazon-computer-vision-intern-to-applied-scientist-violetta-shevchenko)
 - [New method identifies the root causes of statistical outliers](https://www.amazon.science/blog/new-method-identifies-the-root-causes-of-statistical-outliers)
 - [74 Amazon Research Awards recipients announced](https://www.amazon.science/research-awards/program-updates/74-amazon-research-awards-recipients-announced)
-- [Filtering out &quot;forbidden&quot; documents during information retrieval](https://www.amazon.science/blog/filtering-out-forbidden-documents-during-information-retrieval)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
