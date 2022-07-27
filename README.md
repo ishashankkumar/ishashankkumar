@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [How silicon innovation became the ‘secret sauce’ behind AWS’s success](https://www.amazon.science/how-silicon-innovation-became-the-secret-sauce-behind-awss-success)
 - [Preparing today for a post-quantum cryptographic future](https://www.amazon.science/blog/preparing-today-for-a-post-quantum-cryptographic-future)
 - [Amazon-Columbia SURE students meet with Alexa AI VP](https://www.amazon.science/academic-engagements/amazon-columbia-sure-students-meet-with-alexa-ai-vp)
 - [How Amazon learned to cut its cardboard waste](https://www.amazon.science/latest-news/amazon-cardboard-boxes-waste-reduction)
 - [Causal inference when treatments are continuous variables](https://www.amazon.science/blog/causal-inference-when-treatments-are-continuous-variables)
-- [Massively Multilingual NLU 2022: Call for papers and shared-task entries](https://www.amazon.science/blog/massively-multilingual-nlu-2022-call-for-papers-and-shared-task-entries)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
