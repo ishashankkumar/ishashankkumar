@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [Amazon Scholar Kathleen McKeown receives dual honors](https://www.amazon.science/latest-news/amazon-scholar-kathleen-mckeown-receives-dual-honors)
 - [The path to carbon reductions in high-growth economic sectors](https://www.amazon.science/blog/the-path-to-carbon-reductions-in-high-growth-economic-sectors)
 - [A hyperparameter optimization library for reproducible research](https://www.amazon.science/blog/a-hyperparameter-optimization-library-for-reproducible-research)
 - [“I didn’t imagine I could grow and learn so much”](https://www.amazon.science/working-at-amazon/amazon-internships-summer-2022-experience-donato-crisostomi-science-intern)
 - [Amazon hosts largest class of science interns](https://www.amazon.science/working-at-amazon/amazon-hosts-largest-class-of-science-interns)
-- [How silicon innovation became the ‘secret sauce’ behind AWS’s success](https://www.amazon.science/how-silicon-innovation-became-the-secret-sauce-behind-awss-success)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
