@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [Domenico Giannone’s never-ending drive to learn more from economic data](https://www.amazon.science/working-at-amazon/domenico-giannone-nowcasting-amazon-economics-forecasting)
 - [“Data science could be used everywhere”](https://www.amazon.science/working-at-amazon/mlu-data-scientist-jared-wilber)
 - [Amazon wins best-paper award at first AutoML conference](https://www.amazon.science/blog/amazon-wins-best-paper-award-at-first-automl-conference)
 - [20B-parameter Alexa model sets new marks in few-shot learning](https://www.amazon.science/blog/20b-parameter-alexa-model-sets-new-marks-in-few-shot-learning)
 - [Amazon Scholar Kathleen McKeown receives dual honors](https://www.amazon.science/latest-news/amazon-scholar-kathleen-mckeown-receives-dual-honors)
-- [The path to carbon reductions in high-growth economic sectors](https://www.amazon.science/blog/the-path-to-carbon-reductions-in-high-growth-economic-sectors)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
