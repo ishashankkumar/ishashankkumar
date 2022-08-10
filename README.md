@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [Amazon and UW announce inaugural Science Hub faculty research awards](https://www.amazon.science/academic-engagements/amazon-and-university-of-washington-announce-inaugural-science-hub-faculty-research-awards)
 - [Reid Blackman: The ethics of AI](https://www.amazon.science/latest-news/reid-blackman-ethical-machines-the-ethics-of-ai)
 - [How the Zoox robotaxi predicts everything, everywhere, all at once](https://www.amazon.science/latest-news/how-the-zoox-robotaxi-predicts-everything-everywhere-all-at-once)
 - [Automated reasoning at Amazon: a conversation](https://www.amazon.science/blog/automated-reasoning-at-federated-logic-conference-floc)
 - [National Science Foundation and Amazon announce latest Fairness in AI grant projects](https://www.amazon.science/academic-engagements/national-science-foundation-amazon-2022-fairness-in-AI-grant-projects)
-- [Domenico Giannone’s never-ending drive to learn more from economic data](https://www.amazon.science/working-at-amazon/domenico-giannone-nowcasting-amazon-economics-forecasting)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
