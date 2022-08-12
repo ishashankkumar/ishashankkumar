@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [Erran Li receives 2022 SIGMOBILE test-of-time award](https://www.amazon.science/latest-news/erran-li-receives-2022-sigmobile-test-of-time-award)
 - [KDD: Graph neural networks, fairness, and inclusivity](https://www.amazon.science/blog/kdd-graph-neural-networks-fairness-and-inclusivity)
 - [Amazon and UW announce inaugural Science Hub faculty research awards](https://www.amazon.science/academic-engagements/amazon-and-university-of-washington-announce-inaugural-science-hub-faculty-research-awards)
 - [Reid Blackman: The ethics of AI](https://www.amazon.science/latest-news/reid-blackman-ethical-machines-the-ethics-of-ai)
 - [How the Zoox robotaxi predicts everything, everywhere, all at once](https://www.amazon.science/latest-news/how-the-zoox-robotaxi-predicts-everything-everywhere-all-at-once)
-- [Automated reasoning at Amazon: a conversation](https://www.amazon.science/blog/automated-reasoning-at-federated-logic-conference-floc)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
