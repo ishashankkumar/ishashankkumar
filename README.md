@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [Scaling graph-neural-network training with CPU-GPU clusters](https://www.amazon.science/blog/scaling-graph-neural-network-training-with-cpu-gpu-clusters)
 - [Ying Ding’s human-centered approach to AI-enhanced medical imaging diagnosis](https://www.amazon.science/research-awards/success-stories/ying-dings-human-centered-approach-to-ai-enhanced-medical-imaging-diagnosis)
 - [Amazon wins contest to control &quot;formality&quot; in machine translation](https://www.amazon.science/blog/amazon-wins-contest-to-control-formality-in-machine-translation)
 - [Erran Li receives 2022 SIGMOBILE test-of-time award](https://www.amazon.science/latest-news/erran-li-receives-2022-sigmobile-test-of-time-award)
 - [KDD: Graph neural networks, fairness, and inclusivity](https://www.amazon.science/blog/kdd-graph-neural-networks-fairness-and-inclusivity)
-- [Amazon and UW announce inaugural Science Hub faculty research awards](https://www.amazon.science/academic-engagements/amazon-and-university-of-washington-announce-inaugural-science-hub-faculty-research-awards)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
