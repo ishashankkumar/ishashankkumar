@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [Why Amazon Scholar Yossi Keshet remains &quot;excited about speech&quot;](https://www.amazon.science/working-at-amazon/why-amazon-scholar-yossi-keshet-remains-excited-about-speech)
 - [Ozge Sahin on the art and science of studying consumer behavior](https://www.amazon.science/working-at-amazon/ozge-sahin-on-the-art-and-science-of-studying-consumer-behavior)
 - [A billion SMT queries a day](https://www.amazon.science/blog/a-billion-smt-queries-a-day)
 - [Scaling graph-neural-network training with CPU-GPU clusters](https://www.amazon.science/blog/scaling-graph-neural-network-training-with-cpu-gpu-clusters)
 - [Ying Ding’s human-centered approach to AI-enhanced medical imaging diagnosis](https://www.amazon.science/research-awards/success-stories/ying-dings-human-centered-approach-to-ai-enhanced-medical-imaging-diagnosis)
-- [Amazon wins contest to control &quot;formality&quot; in machine translation](https://www.amazon.science/blog/amazon-wins-contest-to-control-formality-in-machine-translation)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
