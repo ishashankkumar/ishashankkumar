@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [Using data science to help improve NFL quarterback passing scores](https://www.amazon.science/working-at-amazon/elena-ehrlich-data-science-nfl-quarterback-passing-ratings)
+- [The science behind NFL Next Gen Stats’ new passing metric](https://www.amazon.science/blog/the-science-behind-nfl-next-gen-stats-new-passing-metric)
 - [Amazon product query competition draws more than 9,200 submissions](https://www.amazon.science/blog/amazon-product-query-competition-draws-more-than-9-200-submissions)
 - [The science behind grouping package deliveries](https://www.amazon.science/latest-news/the-science-behind-grouping-amazon-package-deliveries)
 - [Why Amazon Scholar Yossi Keshet remains &quot;excited about speech&quot;](https://www.amazon.science/working-at-amazon/why-amazon-scholar-yossi-keshet-remains-excited-about-speech)
-- [Ozge Sahin on the art and science of studying consumer behavior](https://www.amazon.science/working-at-amazon/ozge-sahin-on-the-art-and-science-of-studying-consumer-behavior)
-- [A billion SMT queries a day](https://www.amazon.science/blog/a-billion-smt-queries-a-day)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
