@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [“I always knew that my main interest was in supply chain optimization”](https://www.amazon.science/working-at-amazon/alp-muharremoglu-columbia-university-of-texas-operations-professor-amazon-scot)
 - [Using data science to help improve NFL quarterback passing scores](https://www.amazon.science/working-at-amazon/elena-ehrlich-data-science-nfl-quarterback-passing-ratings)
 - [The science behind NFL Next Gen Stats’ new passing metric](https://www.amazon.science/blog/the-science-behind-nfl-next-gen-stats-new-passing-metric)
 - [Amazon product query competition draws more than 9,200 submissions](https://www.amazon.science/blog/amazon-product-query-competition-draws-more-than-9-200-submissions)
 - [The science behind grouping package deliveries](https://www.amazon.science/latest-news/the-science-behind-grouping-amazon-package-deliveries)
-- [Why Amazon Scholar Yossi Keshet remains &quot;excited about speech&quot;](https://www.amazon.science/working-at-amazon/why-amazon-scholar-yossi-keshet-remains-excited-about-speech)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
