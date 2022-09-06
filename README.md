@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [A quick guide to Amazon’s 40-plus papers at Interspeech 2022](https://www.amazon.science/blog/a-quick-guide-to-amazons-40-plus-interspeech-papers)
 - [Model assesses the validity of tips offered in product reviews](https://www.amazon.science/blog/model-assesses-the-validity-of-tips-offered-in-product-reviews)
 - [Janus framework lifts continual learning to the next level](https://www.amazon.science/latest-news/amazon-robotics-continual-learning-reinforcement-learning-janus-framework)
 - [“I always knew that my main interest was in supply chain optimization”](https://www.amazon.science/working-at-amazon/alp-muharremoglu-columbia-university-of-texas-operations-professor-amazon-scot)
 - [Using data science to help improve NFL quarterback passing scores](https://www.amazon.science/working-at-amazon/elena-ehrlich-data-science-nfl-quarterback-passing-ratings)
-- [The science behind NFL Next Gen Stats’ new passing metric](https://www.amazon.science/blog/the-science-behind-nfl-next-gen-stats-new-passing-metric)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
