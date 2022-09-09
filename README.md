@@ -14,7 +14,7 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
 - [Master’s student uses SURE opportunity to explore impact of machine learning](https://www.amazon.science/academic-engagements/masters-student-maryam-aziz-uses-sure-opportunity-to-explore-social-impact-of-machine-learning)
-- [Automatically optimizing execution of unfamiliar tensor operations](https://www.amazon.science/blog/automatically-optimizing-execution-of-unfamiliar-tensor-operations)
+- [Automatically optimizing execution of dynamic tensor operations](https://www.amazon.science/blog/automatically-optimizing-execution-of-unfamiliar-tensor-operations)
 - [Pinch-grasping robot handles items with precision](https://www.amazon.science/latest-news/pinch-grasping-robot-handles-items-with-precision)
 - [A quick guide to Amazon’s 40-plus papers at Interspeech 2022](https://www.amazon.science/blog/a-quick-guide-to-amazons-40-plus-interspeech-papers)
 - [Model assesses the validity of tips offered in product reviews](https://www.amazon.science/blog/model-assesses-the-validity-of-tips-offered-in-product-reviews)
