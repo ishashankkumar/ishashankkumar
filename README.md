@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [Alexa’s spoken-language-understanding research at Interspeech 2022](https://www.amazon.science/blog/amazons-spoken-language-understanding-research-at-interspeech-2022)
 - [Alexa speech science developments at Interspeech 2022](https://www.amazon.science/blog/alexa-speech-science-developments-at-interspeech-2022)
 - [Amazon launches Alexa Prize TaskBot Challenge 2](https://www.amazon.science/alexa-prize/taskbot-challenge/2022)
 - [Jaco Geldenhuys and Willem Visser win ISSTA Impact Paper Award](https://www.amazon.science/latest-news/amazon-scientists-jaco-geldenhuys-and-willem-visser-win-2022-issta-impact-paper-award)
 - [RecSys 2022: “Recommenders are ubiquitous”](https://www.amazon.science/blog/recsys-2022-recommenders-are-ubiquitous)
-- [The surprisingly subtle challenge of automating damage detection](https://www.amazon.science/latest-news/the-surprisingly-subtle-challenge-of-automating-damage-detection)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
