@@ -13,8 +13,8 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
-- [The science behind Amazon’s spatial audio-processing technology](https://www.amazon.science/blog/the-science-behind-amazons-spatial-audio-processing-technology)
 - [The science behind Alexa’s new interactive story-creation experience](https://www.amazon.science/blog/the-science-behind-alexas-new-interactive-story-creation-experience)
+- [The science behind Amazon’s spatial audio-processing technology](https://www.amazon.science/blog/the-science-behind-amazons-spatial-audio-processing-technology)
 - [Amazon Halo Rise advances the future of sleep](https://www.amazon.science/blog/amazon-halo-rise-advances-the-future-of-sleep)
 - [Alexa’s text-to-speech research at Interspeech 2022](https://www.amazon.science/blog/alexas-text-to-speech-research-at-interspeech-2022)
 - [Scaling to trillion-parameter model training on AWS](https://www.amazon.science/blog/scaling-to-trillion-parameter-model-training-on-aws)
