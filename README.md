@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [Exploring the uncertainty of predictions](https://www.amazon.science/latest-news/amazon-scholar-tatevik-sekhposyan-exploring-the-uncertainty-of-predictions)
 - [Solving some of the largest, most complex operations problems](https://www.amazon.science/latest-news/solving-some-of-the-largest-most-complex-operations-problems)
 - [Maximizing the efficiency of Amazon&#39;s own delivery networks](https://www.amazon.science/blog/maximizing-the-efficiency-of-amazons-own-delivery-networks)
 - [Five MIT PhD students named as inaugural Amazon Fellows](https://www.amazon.science/latest-news/five-mit-phd-students-named-as-inaugural-amazon-fellows)
 - [3 questions with Antia Lamas-Linares about the Nobel Prize in physics](https://www.amazon.science/blog/3-questions-with-antia-lamas-linares-about-the-nobel-prize-in-physics)
-- [Amazon, Virginia Tech announce fellowship and faculty research awards](https://www.amazon.science/latest-news/amazon-and-virginia-tech-announce-inaugural-fellowship-and-faculty-research-award-recipients)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
