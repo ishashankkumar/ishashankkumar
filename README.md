@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [Lessons learned from 10 years of DynamoDB](https://www.amazon.science/blog/lessons-learned-from-10-years-of-dynamodb)
 - [reMARS revisited: Net zero carbon goal and Amazon’s fulfillment network](https://www.amazon.science/latest-news/remars-revisited-net-zero-carbon-goal-and-amazons-fulfillment-network)
 - [reMARS revisited: Amazon’s supply chain optimization](https://www.amazon.science/latest-news/remars-revisited-amazons-supply-chain-optimization)
 - [Exploring the uncertainty of predictions](https://www.amazon.science/latest-news/amazon-scholar-tatevik-sekhposyan-exploring-the-uncertainty-of-predictions)
 - [Solving some of the largest, most complex operations problems](https://www.amazon.science/latest-news/solving-some-of-the-largest-most-complex-operations-problems)
-- [Maximizing the efficiency of Amazon&#39;s own delivery networks](https://www.amazon.science/blog/maximizing-the-efficiency-of-amazons-own-delivery-networks)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
