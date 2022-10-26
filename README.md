@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [reMARS revisited: How Amazon builds AI-enabled perception for robots](https://www.amazon.science/latest-news/remars-revisited-how-amazon-builds-ai-enabled-perception-for-robots)
 - [The breadth of Amazon&#39;s computer vision research is on display at ECCV](https://www.amazon.science/blog/the-breadth-of-amazons-computer-vision-research-is-on-display-at-eccv)
 - [Amazon Robotics hosted Day One Fellowship Summit](https://www.amazon.science/latest-news/amazon-robotics-welcomes-students-to-inaugural-day-one-fellowship-summit)
 - [The quest to deploy autonomous robots in fulfillment centers](https://www.amazon.science/latest-news/the-quest-to-deploy-autonomous-robots-within-amazon-fulfillment-centers)
 - [Lessons learned from 10 years of DynamoDB](https://www.amazon.science/blog/lessons-learned-from-10-years-of-dynamodb)
-- [reMARS revisited: Net zero and Amazon’s fulfillment network](https://www.amazon.science/latest-news/remars-revisited-net-zero-carbon-goal-and-amazons-fulfillment-network)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
