@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [David Schuster’s quest to make practical quantum computers a reality](https://www.amazon.science/working-at-amazon/david-schusters-quest-to-make-practical-quantum-computers-a-reality)
 - [Amazon SCOT announces 2022 INFORMS Scholars](https://www.amazon.science/latest-news/amazon-scot-announces-2022-informs-scholars)
 - [reMARS revisited: Autonomous mobile robots and safety design](https://www.amazon.science/latest-news/remars-revisited-functional-safety-product-development-for-autonomous-mobile-robots)
 - [Transferring depth estimation knowledge between cameras](https://www.amazon.science/blog/transferring-depth-estimation-knowledge-between-cameras)
 - [reMARS revisited: Building AI-enabled perception for robots](https://www.amazon.science/latest-news/remars-revisited-how-amazon-builds-ai-enabled-perception-for-robots)
-- [The breadth of Amazon&#39;s computer vision research is on display at ECCV](https://www.amazon.science/blog/the-breadth-of-amazons-computer-vision-research-is-on-display-at-eccv)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
