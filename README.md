@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [How a universal model is helping one generation of robots train the next](https://www.amazon.science/latest-news/how-a-universal-model-is-helping-one-generation-of-amazon-robots-train-the-next)
 - [How scarce computing shaped Carlos Huertas&#39;s career](https://www.amazon.science/working-at-amazon/scarce-computing-resources-transformed-carlos-huertas-into-an-optimization-master)
 - [Method predicts bias in face recognition models using unlabeled data](https://www.amazon.science/blog/method-predicts-bias-in-face-recognition-models-using-unlabeled-data)
 - [Jens Lehmann receives Semantic Web journal 10-year award](https://www.amazon.science/latest-news/jens-lehmann-receives-semantic-web-journal-10-year-award-for-influential-paper)
 - [Building systems that automatically adjust to workloads and data](https://www.amazon.science/blog/building-systems-that-automatically-adjust-to-workloads-and-data)
-- [Amazon and University of Washington announce Science Hub fellows](https://www.amazon.science/latest-news/amazon-and-university-of-washington-announce-inaugural-science-hub-fellows)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
