@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [Amazon SURE program hosts three Amazon Days](https://www.amazon.science/latest-news/amazon-sure-program-hosts-three-amazon-days)
 - [How a NeurIPS workshop is increasing women&#39;s visibility in AI](https://www.amazon.science/blog/how-a-neurips-workshop-is-increasing-womens-visibility-in-ai)
 - [NeurIPS: Why causal-representation learning may be the future of AI](https://www.amazon.science/blog/neurips-why-causal-representation-learning-may-be-the-future-of-ai)
 - [A quick guide to Amazon’s papers at NeurIPS 2022](https://www.amazon.science/blog/a-quick-guide-to-amazons-papers-at-neurips-2022)
 - [How Prime Video distills time series anomalies into actionable alarms](https://www.amazon.science/blog/how-prime-video-distills-time-series-anomalies-into-actionable-alarms)
-- [Amazon and UCLA announce fellowship recipients](https://www.amazon.science/latest-news/amazon-and-ucla-announce-fellowship-recipients)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
