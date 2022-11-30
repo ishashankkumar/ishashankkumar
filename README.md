@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [In reinforcement learning, slower networks can learn faster](https://www.amazon.science/blog/in-reinforcement-learning-slower-networks-can-learn-faster)
 - [reMARS revisited: Frontiers of fair and accessible AI](https://www.amazon.science/latest-news/remars-revisited-frontiers-of-fair-and-accessible-ai)
 - [Preventing updated NLP models from backsliding on particular tasks](https://www.amazon.science/blog/preventing-updated-nlp-models-from-backsliding-on-particular-tasks)
 - [Amanda Prorok: Scaling new frontiers in multi-robotic research](https://www.amazon.science/research-awards/success-stories/amanda-prorok-scaling-new-frontiers-in-multi-robotic-research)
 - [Amazon SURE program hosts three Amazon Days](https://www.amazon.science/latest-news/amazon-sure-program-hosts-three-amazon-days)
-- [How a NeurIPS workshop is increasing women&#39;s visibility in AI](https://www.amazon.science/blog/how-a-neurips-workshop-is-increasing-womens-visibility-in-ai)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
