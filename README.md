@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [Amazon&#39;s ML conference focuses on community and connections](https://www.amazon.science/latest-news/amazons-annual-machine-learning-conference-focuses-on-community-and-connections)
 - [Personalized federated learning for a better customer experience](https://www.amazon.science/blog/personalized-federated-learning-for-a-better-customer-experience)
 - [Improve explainability of ML models to meet regulatory requirements](https://www.amazon.science/latest-news/remars-revisited-improve-explainability-of-ml-models-to-meet-regulatory-requirements)
 - [USC and Amazon select five new faculty research projects](https://www.amazon.science/latest-news/usc-amazon-center-on-secure-and-trusted-machine-learning-selects-five-new-research-projects)
 - [AWS CodeWhisperer creates computer code from natural language](https://www.amazon.science/latest-news/aws-codewhisperer-creates-computer-code-from-natural-language)
-- [In reinforcement learning, slower networks can learn faster](https://www.amazon.science/blog/in-reinforcement-learning-slower-networks-can-learn-faster)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
