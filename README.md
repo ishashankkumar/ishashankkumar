@@ -13,7 +13,7 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
-- [reMARS revisited: Self-learning Alexa: ML model updates with no human in the loop](https://www.amazon.science/latest-news/remars-revisited-self-learning-alexa-ml-model-updates-with-no-human-in-the-loop)
+- [Self-learning Alexa: ML model updates with no human in the loop](https://www.amazon.science/latest-news/remars-revisited-self-learning-alexa-ml-model-updates-with-no-human-in-the-loop)
 - [EMNLP: Prompt engineering is the new feature engineering](https://www.amazon.science/blog/emnlp-prompt-engineering-is-the-new-feature-engineering)
 - [A quick guide to Amazon&#39;s 40+ papers at EMNLP 2022](https://www.amazon.science/blog/a-quick-guide-to-amazons-40-emnlp-2022-papers)
 - [Amazon adds Catalan to MASSIVE dataset](https://www.amazon.science/blog/amazon-adds-catalan-to-massive-dataset)
