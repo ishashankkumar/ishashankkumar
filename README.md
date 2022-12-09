@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [How Amazon Robotics is working to eliminate the need for barcodes](https://www.amazon.science/latest-news/how-amazon-robotics-is-working-on-new-ways-to-eliminate-the-need-for-barcodes)
 - [Dataset helps evaluate gender bias in machine translation models](https://www.amazon.science/blog/dataset-helps-evaluate-gender-bias-in-machine-translation-models)
 - [Amazon Scholar Yizhou Sun wins VLDB test of time award](https://www.amazon.science/latest-news/amazon-scholar-yizhou-sun-wins-vldb-test-of-time-award)
 - [Self-learning Alexa: ML model updates with no human in the loop](https://www.amazon.science/latest-news/remars-revisited-self-learning-alexa-ml-model-updates-with-no-human-in-the-loop)
 - [EMNLP: Prompt engineering is the new feature engineering](https://www.amazon.science/blog/emnlp-prompt-engineering-is-the-new-feature-engineering)
-- [A quick guide to Amazon&#39;s 40+ papers at EMNLP 2022](https://www.amazon.science/blog/a-quick-guide-to-amazons-40-emnlp-2022-papers)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
