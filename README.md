@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [reMARS revisited: Human-like reasoning for an AI](https://www.amazon.science/latest-news/remars-revisited-human-like-reasoning-for-an-ai)
+- [&quot;I want machines to write as fluently as humans&quot;](https://www.amazon.science/working-at-amazon/amazon-machine-learning-fellow-jiao-sun-text-generation)
 - [AWS VP Bratin Saha: ML is becoming a &#39;mainstream endeavor&#39;](https://www.amazon.science/latest-news/aws-vp-bratin-saha-machine-learning-is-becoming-integral-to-how-companies-do-business)
 - [Amazon SageMaker&#39;s fifth birthday: Looking back, looking forward](https://www.amazon.science/blog/amazon-sagemakers-fifth-birthday-looking-back-looking-forward)
 - [Economics students in Africa build computational skills](https://www.amazon.science/latest-news/economics-students-in-africa-build-computational-skills)
-- [How Amazon Robotics is working to eliminate the need for barcodes](https://www.amazon.science/latest-news/how-amazon-robotics-is-working-on-new-ways-to-eliminate-the-need-for-barcodes)
-- [Dataset helps evaluate gender bias in machine translation models](https://www.amazon.science/blog/dataset-helps-evaluate-gender-bias-in-machine-translation-models)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
