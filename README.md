@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [Machine Learning University debuts responsible AI course](https://www.amazon.science/latest-news/amazon-machine-learning-university-debuts-free-responsible-ai-course)
 - [Cognixion gives voice to a user’s thoughts](https://www.amazon.science/latest-news/cognixion-gives-voice-to-a-users-thoughts)
 - [Data-efficient continual learning in Alexa](https://www.amazon.science/blog/data-efficient-continual-learning-in-alexa)
 - [How we count carbon emissions from electricity matters](https://www.amazon.science/blog/how-we-count-carbon-emissions-from-electricity-matters)
 - [reMARS revisited: Human-like reasoning for an AI](https://www.amazon.science/latest-news/remars-revisited-human-like-reasoning-for-an-ai)
-- [&quot;I want machines to write as fluently as humans&quot;](https://www.amazon.science/working-at-amazon/amazon-machine-learning-fellow-jiao-sun-text-generation)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
