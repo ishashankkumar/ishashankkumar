@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [Yong Jae Lee is advancing the cutting edge of CV research](https://www.amazon.science/research-awards/success-stories/how-yong-jae-lee-is-advancing-the-cutting-edge-of-computer-vision-research)
 - [Machine Learning University debuts responsible AI course](https://www.amazon.science/latest-news/amazon-machine-learning-university-debuts-free-responsible-ai-course)
 - [Cognixion gives voice to a user’s thoughts](https://www.amazon.science/latest-news/cognixion-gives-voice-to-a-users-thoughts)
 - [Data-efficient continual learning in Alexa](https://www.amazon.science/blog/data-efficient-continual-learning-in-alexa)
 - [How we count carbon emissions from electricity matters](https://www.amazon.science/blog/how-we-count-carbon-emissions-from-electricity-matters)
-- [reMARS revisited: Human-like reasoning for an AI](https://www.amazon.science/latest-news/remars-revisited-human-like-reasoning-for-an-ai)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
