@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [Amazon and Tennessee State University announce academic collaboration](https://www.amazon.science/latest-news/amazon-and-tennessee-state-university-announce-academic-collaboration)
 - [Better differential privacy for end-to-end speech recognition](https://www.amazon.science/blog/better-differential-privacy-for-end-to-end-speech-recognition)
 - [Orbital Systems makes sustainable water enjoyable](https://www.amazon.science/latest-news/alexa-fund-orbital-systems-sustainable-water-use)
 - [Amazon’s papers at SLT](https://www.amazon.science/blog/amazons-papers-at-slt)
 - [Computer vision for automated quality inspection](https://www.amazon.science/latest-news/remars-revisited-computer-vision-for-automated-quality-inspection)
-- [WACV: Where application-based research finds a home](https://www.amazon.science/blog/wacv-where-application-based-research-finds-a-home)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
