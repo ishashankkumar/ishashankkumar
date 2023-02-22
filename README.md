@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [Recent honors and awards for Amazon scientists](https://www.amazon.science/latest-news/recent-honors-and-awards-for-amazon-scientists-january-february-2023)
 - [Ten teams advance in the Alexa Prize SimBot Challenge](https://www.amazon.science/alexa-prize/simbot-challenge/one)
 - [Ten university teams selected for Alexa Prize TaskBot Challenge 2](https://www.amazon.science/alexa-prize/taskbot-challenge/ten-university-teams-selected-for-alexa-prize-taskbot-challenge-2)
 - [A user-controllable framework that unifies style transfer methods](https://www.amazon.science/blog/a-user-controllable-framework-that-unifies-style-transfer-methods)
 - [Amazon and Howard University announce academic collaboration](https://www.amazon.science/latest-news/amazon-and-howard-university-announce-academic-collaboration)
-- [Pai-Ling Yin brings an academic’s lens to the study of buying and selling at Amazon](https://www.amazon.science/working-at-amazon/pai-ling-yin-brings-an-academics-lens-to-the-study-of-buying-and-selling-at-amazon)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
