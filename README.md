@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [Why Amazon&#39;s homepage feels like your own](https://www.amazon.science/working-at-amazon/ren-zhang-director-of-research-science-personalization-strategic-initiative)
 - [Advance diversity and inclusion in voice AI with speech disentanglement](https://www.amazon.science/news-and-features/remars-revisited-advance-diversity-and-inclusion-in-voice-ai-with-speech-disentanglement)
 - [Using hypergraphs to improve product retrieval](https://www.amazon.science/blog/using-hypergraphs-to-improve-product-retrieval)
 - [The science behind Astro&#39;s graceful, responsive motion](https://www.amazon.science/blog/the-science-behind-astros-graceful-responsive-motion)
 - [Amazon announces new CMU graduate research fellows](https://www.amazon.science/news-and-features/amazon-announces-2023-carnegie-mellon-university-graduate-research-fellows)
-- [From structured search to learning-to-rank-and-retrieve](https://www.amazon.science/blog/from-structured-search-to-learning-to-rank-and-retrieve)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
