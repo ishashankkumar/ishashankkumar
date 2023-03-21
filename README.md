@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [Biased graph sampling for better related-product recommendation](https://www.amazon.science/blog/biased-graph-sampling-for-better-related-product-recommendation)
 - [Amazon releases code, datasets for developing embodied AI agents](https://www.amazon.science/blog/amazon-releases-code-datasets-for-developing-embodied-ai-agents)
 - [Amazon expands SURE program to Carnegie Mellon and UCLA](https://www.amazon.science/news-and-features/amazon-expands-sure-program-to-carnegie-mellon-and-ucla)
 - [Why Amazon&#39;s homepage feels like your own](https://www.amazon.science/working-at-amazon/ren-zhang-director-of-research-science-personalization-strategic-initiative)
 - [Advance diversity and inclusion in voice AI with speech disentanglement](https://www.amazon.science/news-and-features/remars-revisited-advance-diversity-and-inclusion-in-voice-ai-with-speech-disentanglement)
-- [Using hypergraphs to improve product retrieval](https://www.amazon.science/blog/using-hypergraphs-to-improve-product-retrieval)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
