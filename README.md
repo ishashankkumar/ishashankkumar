@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [Automated Planning Tool makes work order allocation more efficient](https://www.amazon.science/blog/automated-planning-tool-makes-work-order-allocation-more-efficient)
 - [Amazon and IIT Bombay launch multiyear collaboration](https://www.amazon.science/news-and-features/amazon-and-iit-bombay-launch-multiyear-collaboration)
 - [Neural encoding enables more-efficient recovery of lost audio packets](https://www.amazon.science/blog/neural-encoding-enables-more-efficient-recovery-of-lost-audio-packets)
 - [Amazon launches AICE Center at UIUC](https://www.amazon.science/news-and-features/amazon-launches-the-aice-center-at-the-university-of-illinois-urbana-champaign)
 - [A new paradigm for partnership between industry and academia](https://www.amazon.science/news-and-features/a-new-paradigm-for-partnership-between-industry-and-academia-in-the-age-of-ai)
-- [Biased graph sampling for better related-product recommendation](https://www.amazon.science/blog/biased-graph-sampling-for-better-related-product-recommendation)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
