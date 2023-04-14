@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [The science of price experiments in the Amazon Store](https://www.amazon.science/blog/the-science-of-price-experiments-in-the-amazon-store)
 - [How Amazon scientists are driving success for Alexa in the car](https://www.amazon.science/news-and-features/the-science-behind-alexa-in-vehicles)
 - [Amazon and University of Texas at Austin launch Science Hub](https://www.amazon.science/news-and-features/amazon-and-university-of-texas-at-austin-launch-science-hub)
 - [Amazon releases largest dataset for training &quot;pick and place&quot; robots](https://www.amazon.science/blog/amazon-releases-largest-dataset-for-training-pick-and-place-robots)
 - [Five finalists selected for inaugural Alexa Prize SimBot Challenge](https://www.amazon.science/alexa-prize/simbot-challenge/one)
-- [Rustan Leino provides proof that software is bug-free](https://www.amazon.science/working-at-amazon/rustan-leino-provides-proof-that-software-is-bug-free)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
