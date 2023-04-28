@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [Low-precision arithmetic makes robot localization more efficient](https://www.amazon.science/blog/low-precision-arithmetic-makes-robot-localization-more-efficient)
 - [Recent honors and awards for Amazon scientists](https://www.amazon.science/news-and-features/recent-honors-and-awards-for-amazon-scientists-march-april-2023)
 - [Amazon Research Awards recipients announced](https://www.amazon.science/research-awards/program-updates/79-amazon-research-awards-recipients-announced)
 - [The science of price experiments in the Amazon Store](https://www.amazon.science/blog/the-science-of-price-experiments-in-the-amazon-store)
 - [How Amazon scientists are driving success for Alexa in the car](https://www.amazon.science/news-and-features/the-science-behind-alexa-in-vehicles)
-- [Amazon and University of Texas at Austin launch Science Hub](https://www.amazon.science/news-and-features/amazon-and-university-of-texas-at-austin-launch-science-hub)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
