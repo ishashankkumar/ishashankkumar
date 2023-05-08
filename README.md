@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [Amazon and Howard announce expansion of academic collaboration](https://www.amazon.science/news-and-features/amazon-and-howard-announce-expansion-of-academic-collaboration)
 - [EACL: Language processing at the dawn of the LLM era](https://www.amazon.science/blog/eacl-language-processing-at-the-dawn-of-the-llm-era)
 - [Responsible AI in the generative era](https://www.amazon.science/blog/responsible-ai-in-the-generative-era)
 - [Amazon provides gift to 10 Penn PhD students for work on trustworthy AI](https://www.amazon.science/news-and-features/amazon-provides-gift-to-10-penn-engineering-phd-students-for-work-on-trustworthy-ai)
 - [ICLR: Why does deep learning work, and what are its limits?](https://www.amazon.science/blog/iclr-why-does-deep-learning-work-and-what-are-its-limits)
-- [Amazon-sponsored workshop advances deep learning for code](https://www.amazon.science/blog/amazon-sponsored-workshop-advances-deep-learning-for-code)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
