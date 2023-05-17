@@ -13,11 +13,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [Lihong Li wins 2023 Seoul Test of Time Award](https://www.amazon.science/news-and-features/lihong-li-wins-2023-seoul-test-of-time-award)
 - [Physics-constrained machine learning for scientific computing](https://www.amazon.science/blog/physics-constrained-machine-learning-for-scientific-computing)
 - [Cracking the code of how diseases affect the body](https://www.amazon.science/research-awards/success-stories/cracking-the-code-of-how-diseases-affect-the-body)
 - [How we built Cedar with automated reasoning and differential testing](https://www.amazon.science/blog/how-we-built-cedar-with-automated-reasoning-and-differential-testing)
 - [Nine teams advance to semifinals for the Alexa Prize SocialBot Grand Challenge](https://www.amazon.science/alexa-prize/nine-teams-selected-for-alexa-prize-socialbot-grand-challenge)
-- [Amazon and Howard announce expansion of academic collaboration](https://www.amazon.science/news-and-features/amazon-and-howard-announce-expansion-of-academic-collaboration)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
