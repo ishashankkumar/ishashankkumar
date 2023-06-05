@@ -14,11 +14,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [How epic was that shot? Opportunity Analysis brings data to the debate](https://www.amazon.science/news-and-features/nhl-shot-opportunity-analysis-aws-machine-learning)
 - [ICASSP: Michael I. Jordan’s “alternative view on AI”](https://www.amazon.science/blog/icassp-michael-i-jordans-alternative-view-on-ai)
 - [A quick guide to Amazon’s 40-plus papers at ICASSP](https://www.amazon.science/blog/a-quick-guide-to-amazons-40-plus-papers-at-icassp)
 - [Computing on private data](https://www.amazon.science/blog/computing-on-private-data)
 - [“Building a model that can save as many lives as possible”](https://www.amazon.science/research-awards/success-stories/building-a-model-that-can-save-as-many-lives-as-possible)
-- [Using generative AI to improve extreme multilabel classification](https://www.amazon.science/blog/using-generative-ai-to-improve-extreme-multilabel-classification)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
