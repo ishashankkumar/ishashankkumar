@@ -14,11 +14,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [More inclusive speech recognition with cross-utterance rescoring](https://www.amazon.science/blog/more-inclusive-speech-recognition-with-cross-utterance-rescoring)
 - [University of Michigan’s SEAGULL wins Alexa Prize SimBot Challenge](https://www.amazon.science/alexa-prize/university-of-michigans-seagull-wins-alexa-prize-simbot-challenge)
 - [Federated learning with weak supervision for speech recognition](https://www.amazon.science/blog/federated-learning-with-weak-supervision-for-speech-recognition)
 - [More-efficient approximate nearest-neighbor search](https://www.amazon.science/blog/more-efficient-approximate-nearest-neighbor-search)
 - [How epic was that shot? Opportunity Analysis brings data to the debate](https://www.amazon.science/news-and-features/nhl-shot-opportunity-analysis-aws-machine-learning)
-- [ICASSP: Michael I. Jordan’s “alternative view on AI”](https://www.amazon.science/blog/icassp-michael-i-jordans-alternative-view-on-ai)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
