@@ -15,11 +15,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [Paper on graph database schemata wins best-industry-paper award](https://www.amazon.science/blog/paper-on-graph-database-schemata-wins-best-industry-paper-award)
 - [Can you teach a computer to smell? Osmo is trying](https://www.amazon.science/news-and-features/can-you-teach-a-computer-to-smell-osmo-is-trying)
 - [More-inclusive speech recognition with cross-utterance rescoring](https://www.amazon.science/blog/more-inclusive-speech-recognition-with-cross-utterance-rescoring)
 - [University of Michigan’s SEAGULL wins Alexa Prize SimBot Challenge](https://www.amazon.science/alexa-prize/university-of-michigans-seagull-wins-alexa-prize-simbot-challenge)
 - [Federated learning with weak supervision for speech recognition](https://www.amazon.science/blog/federated-learning-with-weak-supervision-for-speech-recognition)
-- [More-efficient approximate nearest-neighbor search](https://www.amazon.science/blog/more-efficient-approximate-nearest-neighbor-search)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
