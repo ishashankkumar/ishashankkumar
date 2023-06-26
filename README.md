@@ -15,11 +15,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [The science behind the improved Fire TV voice search](https://www.amazon.science/news-and-features/the-science-behind-the-improved-fire-tv-voice-search)
 - [Yash Kanoria wins SIGecom Test of Time Award](https://www.amazon.science/news-and-features/yash-kanoria-wins-sigecom-test-of-time-award)
 - [How Ali Dashti helps advance the science behind marketing collections](https://www.amazon.science/working-at-amazon/how-ali-dashti-helps-advance-the-science-behind-marketing-collections)
 - [A quick guide to Amazon&#39;s 20-plus papers at CVPR](https://www.amazon.science/blog/a-quick-guide-to-amazons-20-plus-papers-at-cvpr)
 - [Paper on graph database schemata wins best-industry-paper award](https://www.amazon.science/blog/paper-on-graph-database-schemata-wins-best-industry-paper-award)
-- [Can you teach a computer to smell? Osmo is trying](https://www.amazon.science/news-and-features/can-you-teach-a-computer-to-smell-osmo-is-trying)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
