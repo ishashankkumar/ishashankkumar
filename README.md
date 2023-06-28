@@ -15,11 +15,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [Amazon and UW announce new fellows, research awards](https://www.amazon.science/news-and-features/amazon-and-university-of-washington-announce-new-science-hub-fellows-and-research-awards)
 - [Long-form-video understanding and synthesis](https://www.amazon.science/blog/long-form-video-understanding-and-synthesis)
 - [Amazon and Max Planck Society announce sustainability awards](https://www.amazon.science/news-and-features/amazon-and-max-planck-society-announce-science-hub-sustainability-project-awards)
 - [The science behind the improved Fire TV voice search](https://www.amazon.science/news-and-features/the-science-behind-the-improved-fire-tv-voice-search)
 - [Yash Kanoria wins SIGecom Test of Time Award](https://www.amazon.science/news-and-features/yash-kanoria-wins-sigecom-test-of-time-award)
-- [How Ali Dashti helps advance the science behind marketing collections](https://www.amazon.science/working-at-amazon/how-ali-dashti-helps-advance-the-science-behind-marketing-collections)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
