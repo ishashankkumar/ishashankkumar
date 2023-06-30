@@ -15,7 +15,7 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
-- [Amazon launches Alexa Prize TaskBot Challenge 2](https://www.amazon.science/alexa-prize/taskbot-challenge/2022)
+- [Eight teams advance to semifinals for Alexa Prize TaskBot Challenge 2](https://www.amazon.science/alexa-prize/taskbot-challenge/2022)
 - [Amazon and UW announce new fellows, research awards](https://www.amazon.science/news-and-features/amazon-and-university-of-washington-announce-new-science-hub-fellows-and-research-awards)
 - [Long-form-video understanding and synthesis](https://www.amazon.science/blog/long-form-video-understanding-and-synthesis)
 - [Amazon and Max Planck Society announce sustainability awards](https://www.amazon.science/news-and-features/amazon-and-max-planck-society-announce-science-hub-sustainability-project-awards)
