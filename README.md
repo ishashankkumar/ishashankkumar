@@ -15,11 +15,11 @@ I'm a Backend Software Engineer solving challenging problems in Hybrid Cloud Wor
 
 ### 📕 Blogs by Amazon
 <!-- AMAZON-BLOG-POST-LIST:START -->
+- [Teaching language models to reason consistently](https://www.amazon.science/blog/teaching-language-models-to-reason-consistently)
 - [Predicting congestion in fleets of robots](https://www.amazon.science/blog/predicting-congestion-in-fleets-of-robots)
 - [Geopipe uses AI to create a digital twin of Earth](https://www.amazon.science/news-and-features/geopipe-uses-ai-to-create-a-digital-twin-of-earth)
 - [Five finalists selected for Alexa Prize SocialBot Grand Challenge 5](https://www.amazon.science/alexa-prize/socialbot-grand-challenge/2022)
 - [Bringing code analysis tools to Jupyter notebooks](https://www.amazon.science/blog/bringing-code-analysis-tools-to-jupyter-notebooks)
-- [Pronunciation detection for Alexa’s new English-learning experience](https://www.amazon.science/blog/pronunciation-detection-for-alexas-new-english-learning-experience)
 <!-- AMAZON-BLOG-POST-LIST:END -->
 
 
